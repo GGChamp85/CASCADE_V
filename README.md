@@ -118,7 +118,7 @@ Outputs:
 - `data/test_outputs/output_*.wav`
 - `data/ground_truth.json`
 
-### 4. Attribute a single output (the demo for Kakul)
+### 4. Attribute a single output
 
 ```bash
 python scripts/attribute.py output_001 --total-payout 1.00
@@ -137,7 +137,7 @@ You'll see three rich-formatted tables in the terminal:
 - Per-creator payout (aggregated)
 - Fairness axioms (PROVEN / VIOLATED / NA per axiom)
 
-And the receipt JSON is written to `outputs/receipts/output_001.json`. **This is the artifact you walk into the Kakul call with.**
+And the receipt JSON is written to `outputs/receipts/output_001.json`.
 
 ### 5. Run the full evaluation
 
@@ -244,18 +244,6 @@ z3 outputs/proofs/output_001.smt2
 ```
 
 That's the audit story. The receipt isn't trustworthy because we say so — it's trustworthy because z3 checks the math.
-
----
-
-## What to show Kakul
-
-Walk through this in this order:
-
-1. **Run step 4 live**, on `output_001`. Three tables render in seconds. The fairness-axiom table is the moment.
-2. **Open `output_001.json`** — point to the verification block. "This is the receipt the creator sees. Their lawyer can verify it without trusting us."
-3. **Open `output_001.smt2`** — show the actual SMT-LIB constraints. They look like math because they are. "Here's the proof. Anyone with z3 can re-check it."
-4. **Run step 5**, show the comparison plot. Don't oversell the MAE wins; the headline is "100% axiom satisfaction at zero cost vs. ~30% for instance-Shapley alone on creator-DNA cases."
-5. **Frame the gap**: this is the layer that has to exist between Variations (clean 1:1 attribution today) and Magic Fit (multi-source, July 2026). I can build this into Splice in a 90-day production sprint.
 
 ---
 

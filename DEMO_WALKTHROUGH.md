@@ -1,4 +1,4 @@
-# CASCADE-V: Kakul Demo Walkthrough
+# CASCADE-V: Demo Walkthrough
 
 A 6–8 minute live demo. Run it from your M4 Mac with the venv active.
 
