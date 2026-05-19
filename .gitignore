@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtualenv
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated artifacts
+data/catalog/
+data/test_outputs/
+data/catalog_metadata.json
+data/catalog_embeddings.npy
+data/ground_truth.json
+models/*.pt
+outputs/receipts/*.json
+outputs/proofs/*.smt2
+outputs/plots/*.png
+outputs/results.csv
+logs/*.json
+
+# Keep the directories themselves
+!data/.gitkeep
+!models/.gitkeep
+!outputs/receipts/.gitkeep
+!outputs/proofs/.gitkeep
+!outputs/plots/.gitkeep
+!logs/.gitkeep
+
+# Claude harness
+.claude/

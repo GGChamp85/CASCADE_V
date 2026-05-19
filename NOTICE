@@ -1,0 +1,13 @@
+CASCADE-V
+
+Copyright (c) 2026 Gaurav Gupta. All rights reserved.
+
+This software is a research prototype demonstrating multi-source attribution
+with formal verification. The verification layer (Cascade Validation Protocol,
+interval arithmetic with confidence bounds, and Z3 SMT proof certification)
+is derivative of methods covered by:
+
+    US Patent 12,536,365 B1 — issued January 27, 2026.
+
+Provided as a working demo. Not licensed for production deployment without
+explicit written agreement.

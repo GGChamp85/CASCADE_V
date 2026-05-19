@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background: #f1f3f7;
+  color: #0f172a;
+}
+
+body {
+  font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
+}
+
+@layer components {
+  .pill {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-semibold;
+  }
+  .pill-ok {
+    @apply bg-emerald-100 text-emerald-800 ring-1 ring-emerald-200;
+  }
+  .pill-warn {
+    @apply bg-amber-100 text-amber-800 ring-1 ring-amber-200;
+  }
+  .pill-bad {
+    @apply bg-rose-100 text-rose-800 ring-1 ring-rose-200;
+  }
+  .pill-mute {
+    @apply bg-slate-100 text-slate-700 ring-1 ring-slate-200;
+  }
+  .pill-brand {
+    @apply bg-brand-soft text-violet-800 ring-1 ring-violet-200;
+  }
+  .card {
+    @apply rounded-2xl border border-border bg-card shadow-soft;
+  }
+  .kpi-card {
+    @apply rounded-2xl p-5 shadow-soft;
+  }
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-xl bg-brand px-4 py-2.5 text-sm font-semibold text-white shadow-soft transition-colors hover:bg-violet-700 disabled:cursor-not-allowed disabled:bg-slate-300;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 rounded-xl border border-border bg-white px-4 py-2.5 text-sm font-semibold text-ink hover:bg-slate-50;
+  }
+  .kbd {
+    @apply rounded border border-border bg-slate-50 px-1.5 py-0.5 font-mono text-xs text-subt;
+  }
+  .step-icon {
+    @apply flex h-12 w-12 items-center justify-center rounded-2xl text-2xl text-white shadow-soft;
+  }
+}
