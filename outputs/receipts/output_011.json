@@ -1,0 +1,2300 @@
+{
+  "receipt_id": "output_011",
+  "created_at_utc": "2026-04-29T21:56:30.966783+00:00",
+  "total_payout_usd": 1.0,
+  "method": "CASCADE-V",
+  "version": "0.2.0",
+  "per_creator": [
+    {
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.4278576861654329,
+      "weight_lower": 0.4278576861654329,
+      "weight_upper": 0.42785768616543296,
+      "payout_usd": 0.4278576861654329,
+      "n_sources": 3
+    },
+    {
+      "creator_id": "creator_15",
+      "creator_name": "Ravi Pulse",
+      "weight_point": 0.292299986720683,
+      "weight_lower": 0.292299986720683,
+      "weight_upper": 0.292299986720683,
+      "payout_usd": 0.292299986720683,
+      "n_sources": 3
+    },
+    {
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.1437722960166771,
+      "weight_lower": 0.1437722960166771,
+      "weight_upper": 0.1437722960166771,
+      "payout_usd": 0.1437722960166771,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.13607003109720692,
+      "weight_lower": 0.13607003109720692,
+      "weight_upper": 0.13607003109720692,
+      "payout_usd": 0.13607003109720692,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_11",
+      "creator_name": "Riff Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 3
+    },
+    {
+      "creator_id": "creator_13",
+      "creator_name": "Stella Drum",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_18",
+      "creator_name": "Quasar Quill",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_23",
+      "creator_name": "Polaris Hum",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 2
+    },
+    {
+      "creator_id": "creator_03",
+      "creator_name": "Producer Noir",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_04",
+      "creator_name": "Synthia",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 2
+    },
+    {
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 19
+    }
+  ],
+  "per_source": [
+    {
+      "source_id": "src_120",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.13607003109720692,
+      "weight_lower": 0.13607003109720692,
+      "weight_upper": 0.13607003109720692,
+      "payout_usd": 0.13607003109720692,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_1303",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_1447",
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_178",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.21833456536124166,
+      "weight_lower": 0.21833456536124166,
+      "weight_upper": 0.21833456536124168,
+      "payout_usd": 0.21833456536124166,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_1782",
+      "creator_id": "creator_11",
+      "creator_name": "Riff Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_1816",
+      "creator_id": "creator_11",
+      "creator_name": "Riff Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_1830",
+      "creator_id": "creator_11",
+      "creator_name": "Riff Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2169",
+      "creator_id": "creator_13",
+      "creator_name": "Stella Drum",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_218",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.20952312080419125,
+      "weight_lower": 0.20952312080419125,
+      "weight_upper": 0.20952312080419128,
+      "payout_usd": 0.20952312080419125,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2409",
+      "creator_id": "creator_15",
+      "creator_name": "Ravi Pulse",
+      "weight_point": 0.14371920592153103,
+      "weight_lower": 0.14371920592153103,
+      "weight_upper": 0.14371920592153103,
+      "payout_usd": 0.14371920592153103,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2426",
+      "creator_id": "creator_15",
+      "creator_name": "Ravi Pulse",
+      "weight_point": 0.14858078079915196,
+      "weight_lower": 0.14858078079915196,
+      "weight_upper": 0.14858078079915196,
+      "payout_usd": 0.14858078079915196,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2441",
+      "creator_id": "creator_15",
+      "creator_name": "Ravi Pulse",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2825",
+      "creator_id": "creator_18",
+      "creator_name": "Quasar Quill",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_290",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3022",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.1437722960166771,
+      "weight_lower": 0.1437722960166771,
+      "weight_upper": 0.1437722960166771,
+      "payout_usd": 0.1437722960166771,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3483",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3612",
+      "creator_id": "creator_23",
+      "creator_name": "Polaris Hum",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3682",
+      "creator_id": "creator_23",
+      "creator_name": "Polaris Hum",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_472",
+      "creator_id": "creator_03",
+      "creator_name": "Producer Noir",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_644",
+      "creator_id": "creator_04",
+      "creator_name": "Synthia",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_675",
+      "creator_id": "creator_04",
+      "creator_name": "Synthia",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_786",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_793",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_798",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_812",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_821",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_831",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_849",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_850",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_853",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_859",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_861",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_871",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_876",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_881",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_895",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_896",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_897",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_899",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_919",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    }
+  ],
+  "latency_ms": {
+    "stage1_triage": 2.463,
+    "stage2_grouping": 0.543,
+    "stage3_shapley_total": 39.352,
+    "compose": 0.282,
+    "stageV_proof": 13.872,
+    "total": 57.703
+  },
+  "stages": {
+    "stage1_triage": {
+      "method": "trak_cosine",
+      "k": 40,
+      "metadata": {
+        "catalog_size": 5000,
+        "k": 40,
+        "calibrated": true,
+        "n_residual_passes_requested": 2,
+        "n_residual_passes_used": 0,
+        "pre_nnls_active": 10,
+        "residual_strength": 0.55,
+        "n_unique_candidates_pre_rerank": 40,
+        "n_filtered_bpm": 0,
+        "n_filtered_key": 0,
+        "n_eligible_after_filter": 5000,
+        "raw_max_similarity": 0.7957679033279419,
+        "raw_min_similarity": -0.7228124141693115,
+        "raw_mean_similarity": -0.028943054378032684,
+        "use_nnls_rerank": true,
+        "nnls_shortlist_size": 80,
+        "nnls_residual_norm": 0.1813792666712381,
+        "nnls_n_active": 10,
+        "nnls_active_mass": 1.6927570922526531
+      },
+      "candidates": [
+        {
+          "source_id": "src_178",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 0.17456758900200445,
+          "rank": 1
+        },
+        {
+          "source_id": "src_812",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 0.13600805975500585,
+          "rank": 2
+        },
+        {
+          "source_id": "src_290",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 0.1268302327693254,
+          "rank": 3
+        },
+        {
+          "source_id": "src_2169",
+          "creator_id": "creator_13",
+          "creator_name": "Stella Drum",
+          "score": 0.12255544835417236,
+          "rank": 4
+        },
+        {
+          "source_id": "src_3612",
+          "creator_id": "creator_23",
+          "creator_name": "Polaris Hum",
+          "score": 0.11825081873956343,
+          "rank": 5
+        },
+        {
+          "source_id": "src_218",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 0.10796220514281224,
+          "rank": 6
+        },
+        {
+          "source_id": "src_2426",
+          "creator_id": "creator_15",
+          "creator_name": "Ravi Pulse",
+          "score": 0.08510545406172301,
+          "rank": 7
+        },
+        {
+          "source_id": "src_2825",
+          "creator_id": "creator_18",
+          "creator_name": "Quasar Quill",
+          "score": 0.0730951615635644,
+          "rank": 8
+        },
+        {
+          "source_id": "src_472",
+          "creator_id": "creator_03",
+          "creator_name": "Producer Noir",
+          "score": 0.029332317462776526,
+          "rank": 9
+        },
+        {
+          "source_id": "src_675",
+          "creator_id": "creator_04",
+          "creator_name": "Synthia",
+          "score": 0.026865859717110543,
+          "rank": 10
+        },
+        {
+          "source_id": "src_3682",
+          "creator_id": "creator_23",
+          "creator_name": "Polaris Hum",
+          "score": 8.010473538888618e-05,
+          "rank": 11
+        },
+        {
+          "source_id": "src_899",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 7.634915527887642e-05,
+          "rank": 12
+        },
+        {
+          "source_id": "src_798",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 7.472569996025413e-05,
+          "rank": 13
+        },
+        {
+          "source_id": "src_1816",
+          "creator_id": "creator_11",
+          "creator_name": "Riff Forge",
+          "score": 7.468319381587207e-05,
+          "rank": 14
+        },
+        {
+          "source_id": "src_1782",
+          "creator_id": "creator_11",
+          "creator_name": "Riff Forge",
+          "score": 7.183001434896141e-05,
+          "rank": 15
+        },
+        {
+          "source_id": "src_120",
+          "creator_id": "creator_00",
+          "creator_name": "DJ Atlas",
+          "score": 7.072422158671543e-05,
+          "rank": 16
+        },
+        {
+          "source_id": "src_859",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.768744060536847e-05,
+          "rank": 17
+        },
+        {
+          "source_id": "src_1303",
+          "creator_id": "creator_08",
+          "creator_name": "Felix Verde",
+          "score": 6.55071489745751e-05,
+          "rank": 18
+        },
+        {
+          "source_id": "src_2441",
+          "creator_id": "creator_15",
+          "creator_name": "Ravi Pulse",
+          "score": 6.538898014696315e-05,
+          "rank": 19
+        },
+        {
+          "source_id": "src_881",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.506859790533781e-05,
+          "rank": 20
+        },
+        {
+          "source_id": "src_1830",
+          "creator_id": "creator_11",
+          "creator_name": "Riff Forge",
+          "score": 6.377485260600224e-05,
+          "rank": 21
+        },
+        {
+          "source_id": "src_2409",
+          "creator_id": "creator_15",
+          "creator_name": "Ravi Pulse",
+          "score": 6.328318704618141e-05,
+          "rank": 22
+        },
+        {
+          "source_id": "src_3022",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 6.31735019851476e-05,
+          "rank": 23
+        },
+        {
+          "source_id": "src_644",
+          "creator_id": "creator_04",
+          "creator_name": "Synthia",
+          "score": 6.257360655581579e-05,
+          "rank": 24
+        },
+        {
+          "source_id": "src_896",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.24668609816581e-05,
+          "rank": 25
+        },
+        {
+          "source_id": "src_849",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.245246186153963e-05,
+          "rank": 26
+        },
+        {
+          "source_id": "src_793",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.24464446445927e-05,
+          "rank": 27
+        },
+        {
+          "source_id": "src_919",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.243210373213515e-05,
+          "rank": 28
+        },
+        {
+          "source_id": "src_861",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.242924428079277e-05,
+          "rank": 29
+        },
+        {
+          "source_id": "src_897",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.241451046662405e-05,
+          "rank": 30
+        },
+        {
+          "source_id": "src_831",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.236776971491054e-05,
+          "rank": 31
+        },
+        {
+          "source_id": "src_871",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.235633190954104e-05,
+          "rank": 32
+        },
+        {
+          "source_id": "src_821",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.228478741832078e-05,
+          "rank": 33
+        },
+        {
+          "source_id": "src_895",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.227655831025913e-05,
+          "rank": 34
+        },
+        {
+          "source_id": "src_850",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.226225377758965e-05,
+          "rank": 35
+        },
+        {
+          "source_id": "src_853",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.226066761882976e-05,
+          "rank": 36
+        },
+        {
+          "source_id": "src_786",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.217494228621945e-05,
+          "rank": 37
+        },
+        {
+          "source_id": "src_876",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 6.212685548234731e-05,
+          "rank": 38
+        },
+        {
+          "source_id": "src_3483",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 6.201033102115616e-05,
+          "rank": 39
+        },
+        {
+          "source_id": "src_1447",
+          "creator_id": "creator_09",
+          "creator_name": "Echo Park",
+          "score": 6.197718903422356e-05,
+          "rank": 40
+        }
+      ]
+    },
+    "stage2_grouping": {
+      "method": "guda_ward",
+      "metadata": {
+        "n_clusters": 20,
+        "n_candidates": 40,
+        "v_full": 0.7789660099919667,
+        "distance_threshold": 0.6,
+        "clustering_method": "ward",
+        "max_cluster_size": 14,
+        "min_cluster_size": 1,
+        "n_active_clusters_before_sparsify": 16,
+        "n_active_clusters_after_sparsify": 5,
+        "min_cluster_weight_threshold": 0.07
+      },
+      "n_clusters": 20,
+      "clusters": [
+        {
+          "cluster_id": 1,
+          "weight": 0.0,
+          "raw_score": -0.08340920399679841,
+          "member_local_indices": [
+            1,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            34,
+            35,
+            36,
+            37
+          ],
+          "member_source_ids": [
+            "src_812",
+            "src_896",
+            "src_849",
+            "src_793",
+            "src_919",
+            "src_861",
+            "src_897",
+            "src_831",
+            "src_871",
+            "src_821",
+            "src_850",
+            "src_853",
+            "src_786",
+            "src_876"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "weight": 0.0,
+          "raw_score": 0.004485456812470812,
+          "member_local_indices": [
+            17
+          ],
+          "member_source_ids": [
+            "src_1303"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "weight": 0.0,
+          "raw_score": 0.010818826448923513,
+          "member_local_indices": [
+            18
+          ],
+          "member_source_ids": [
+            "src_2441"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "weight": 0.14371920592153106,
+          "raw_score": 0.014541777577982917,
+          "member_local_indices": [
+            21
+          ],
+          "member_source_ids": [
+            "src_2409"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "weight": 0.14858078079915196,
+          "raw_score": 0.015033680800629945,
+          "member_local_indices": [
+            6
+          ],
+          "member_source_ids": [
+            "src_2426"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "weight": 0.42785768616543296,
+          "raw_score": 0.04329143949379444,
+          "member_local_indices": [
+            0,
+            5
+          ],
+          "member_source_ids": [
+            "src_178",
+            "src_218"
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "weight": 0.13607003109720694,
+          "raw_score": 0.013767819788297109,
+          "member_local_indices": [
+            15
+          ],
+          "member_source_ids": [
+            "src_120"
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "weight": 0.14377229601667713,
+          "raw_score": 0.014547149332928666,
+          "member_local_indices": [
+            22
+          ],
+          "member_source_ids": [
+            "src_3022"
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "weight": 0.0,
+          "raw_score": 0.005440045072755306,
+          "member_local_indices": [
+            13,
+            14,
+            20
+          ],
+          "member_source_ids": [
+            "src_1816",
+            "src_1782",
+            "src_1830"
+          ]
+        },
+        {
+          "cluster_id": 10,
+          "weight": 0.0,
+          "raw_score": 0.001425363625403686,
+          "member_local_indices": [
+            2
+          ],
+          "member_source_ids": [
+            "src_290"
+          ]
+        },
+        {
+          "cluster_id": 11,
+          "weight": 0.0,
+          "raw_score": -0.009863314278971691,
+          "member_local_indices": [
+            11,
+            12,
+            33
+          ],
+          "member_source_ids": [
+            "src_899",
+            "src_798",
+            "src_895"
+          ]
+        },
+        {
+          "cluster_id": 12,
+          "weight": 0.0,
+          "raw_score": -0.004468127967275581,
+          "member_local_indices": [
+            16,
+            19
+          ],
+          "member_source_ids": [
+            "src_859",
+            "src_881"
+          ]
+        },
+        {
+          "cluster_id": 13,
+          "weight": 0.0,
+          "raw_score": 0.006229019906931477,
+          "member_local_indices": [
+            8
+          ],
+          "member_source_ids": [
+            "src_472"
+          ]
+        },
+        {
+          "cluster_id": 14,
+          "weight": 0.0,
+          "raw_score": 0.011092301698217066,
+          "member_local_indices": [
+            7
+          ],
+          "member_source_ids": [
+            "src_2825"
+          ]
+        },
+        {
+          "cluster_id": 15,
+          "weight": 0.0,
+          "raw_score": 0.005089532197541713,
+          "member_local_indices": [
+            23
+          ],
+          "member_source_ids": [
+            "src_644"
+          ]
+        },
+        {
+          "cluster_id": 16,
+          "weight": 0.0,
+          "raw_score": 0.008790132452312527,
+          "member_local_indices": [
+            9
+          ],
+          "member_source_ids": [
+            "src_675"
+          ]
+        },
+        {
+          "cluster_id": 17,
+          "weight": 0.0,
+          "raw_score": 0.002503891969491856,
+          "member_local_indices": [
+            38
+          ],
+          "member_source_ids": [
+            "src_3483"
+          ]
+        },
+        {
+          "cluster_id": 18,
+          "weight": 0.0,
+          "raw_score": -0.0010081458346703487,
+          "member_local_indices": [
+            4,
+            10
+          ],
+          "member_source_ids": [
+            "src_3612",
+            "src_3682"
+          ]
+        },
+        {
+          "cluster_id": 19,
+          "weight": 0.0,
+          "raw_score": 0.0021386050506719823,
+          "member_local_indices": [
+            3
+          ],
+          "member_source_ids": [
+            "src_2169"
+          ]
+        },
+        {
+          "cluster_id": 20,
+          "weight": 0.0,
+          "raw_score": 0.0051231536752702755,
+          "member_local_indices": [
+            39
+          ],
+          "member_source_ids": [
+            "src_1447"
+          ]
+        }
+      ]
+    },
+    "stage3_shapley": {
+      "per_cluster": [
+        {
+          "cluster_id": 1,
+          "method": "shapley_monte_carlo",
+          "n": 14,
+          "metadata": {
+            "n_permutations": 392,
+            "n_permutations_requested": 400,
+            "n_evaluations": 5488,
+            "n": 14,
+            "hoeffding_epsilon": 0.1371889701885601,
+            "confidence": 0.95,
+            "temperature": 8.0,
+            "antithetic": true,
+            "n_strata": 14,
+            "pairs_per_stratum": 14
+          },
+          "members": [
+            {
+              "source_id": "src_812",
+              "shapley_value": 0.028210958974013396,
+              "weight_in_cluster": 0.07382756836847305,
+              "interval_lower": 0.0,
+              "interval_upper": 0.43284861707958106
+            },
+            {
+              "source_id": "src_896",
+              "shapley_value": 0.02964105273715694,
+              "weight_in_cluster": 0.07757009782906539,
+              "interval_lower": 0.0,
+              "interval_upper": 0.4365911465401734
+            },
+            {
+              "source_id": "src_849",
+              "shapley_value": 0.020789828571425792,
+              "weight_in_cluster": 0.054406604597866205,
+              "interval_lower": 0.0,
+              "interval_upper": 0.41342765330897424
+            },
+            {
+              "source_id": "src_793",
+              "shapley_value": 0.022716196492406887,
+              "weight_in_cluster": 0.05944787453555498,
+              "interval_lower": 0.0,
+              "interval_upper": 0.418468923246663
+            },
+            {
+              "source_id": "src_919",
+              "shapley_value": 0.027558493736651708,
+              "weight_in_cluster": 0.07212007866690906,
+              "interval_lower": 0.0,
+              "interval_upper": 0.4311411273780171
+            },
+            {
+              "source_id": "src_861",
+              "shapley_value": 0.026569280108921962,
+              "weight_in_cluster": 0.06953132453063472,
+              "interval_lower": 0.0,
+              "interval_upper": 0.4285523732417427
+            },
+            {
+              "source_id": "src_897",
+              "shapley_value": 0.026540864518354242,
+              "weight_in_cluster": 0.06945696144509406,
+              "interval_lower": 0.0,
+              "interval_upper": 0.42847801015620207
+            },
+            {
+              "source_id": "src_831",
+              "shapley_value": 0.03029981052623178,
+              "weight_in_cluster": 0.07929405502442294,
+              "interval_lower": 0.0,
+              "interval_upper": 0.43831510373553095
+            },
+            {
+              "source_id": "src_871",
+              "shapley_value": 0.027332654985449612,
+              "weight_in_cluster": 0.07152906274788334,
+              "interval_lower": 0.0,
+              "interval_upper": 0.43055011145899136
+            },
+            {
+              "source_id": "src_821",
+              "shapley_value": 0.03881833447732679,
+              "weight_in_cluster": 0.10158687782343721,
+              "interval_lower": 0.0,
+              "interval_upper": 0.46060792653454524
+            },
+            {
+              "source_id": "src_850",
+              "shapley_value": 0.0221835170522374,
+              "weight_in_cluster": 0.058053862094367914,
+              "interval_lower": 0.0,
+              "interval_upper": 0.41707491080547593
+            },
+            {
+              "source_id": "src_853",
+              "shapley_value": 0.025119044816677545,
+              "weight_in_cluster": 0.06573608505340983,
+              "interval_lower": 0.0,
+              "interval_upper": 0.42475713376451785
+            },
+            {
+              "source_id": "src_786",
+              "shapley_value": 0.027734481195073643,
+              "weight_in_cluster": 0.07258063465618286,
+              "interval_lower": 0.0,
+              "interval_upper": 0.4316016833672909
+            },
+            {
+              "source_id": "src_876",
+              "shapley_value": 0.028605055802608144,
+              "weight_in_cluster": 0.07485891262669832,
+              "interval_lower": 0.0,
+              "interval_upper": 0.4338799613378063
+            }
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_1303",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_2441",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_2409",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_2426",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "method": "shapley_exact",
+          "n": 2,
+          "metadata": {
+            "n_evaluations": 8,
+            "n": 2,
+            "v_full": 0.2991559390333025,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_178",
+              "shapley_value": 0.15265842834202464,
+              "weight_in_cluster": 0.5102971675418768,
+              "interval_lower": 0.5102971675418768,
+              "interval_upper": 0.5102971675418768
+            },
+            {
+              "source_id": "src_218",
+              "shapley_value": 0.14649751069127787,
+              "weight_in_cluster": 0.48970283245812324,
+              "interval_lower": 0.48970283245812324,
+              "interval_upper": 0.48970283245812324
+            }
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_120",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_3022",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "method": "shapley_exact",
+          "n": 3,
+          "metadata": {
+            "n_evaluations": 24,
+            "n": 3,
+            "v_full": 0.5238440755102788,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_1816",
+              "shapley_value": 0.21858882368980923,
+              "weight_in_cluster": 0.4172784114755539,
+              "interval_lower": 0.4172784114755539,
+              "interval_upper": 0.4172784114755539
+            },
+            {
+              "source_id": "src_1782",
+              "shapley_value": 0.1965889230809153,
+              "weight_in_cluster": 0.3752813714451522,
+              "interval_lower": 0.3752813714451522,
+              "interval_upper": 0.3752813714451522
+            },
+            {
+              "source_id": "src_1830",
+              "shapley_value": 0.10866632873955429,
+              "weight_in_cluster": 0.20744021707929394,
+              "interval_lower": 0.20744021707929394,
+              "interval_upper": 0.20744021707929394
+            }
+          ]
+        },
+        {
+          "cluster_id": 10,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_290",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 11,
+          "method": "shapley_exact",
+          "n": 3,
+          "metadata": {
+            "n_evaluations": 24,
+            "n": 3,
+            "v_full": 0.5317998982104086,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_899",
+              "shapley_value": 0.2273467654100549,
+              "weight_in_cluster": 0.42750434171783974,
+              "interval_lower": 0.42750434171783974,
+              "interval_upper": 0.42750434171783974
+            },
+            {
+              "source_id": "src_798",
+              "shapley_value": 0.21316507375772195,
+              "weight_in_cluster": 0.4008369961616322,
+              "interval_lower": 0.4008369961616322,
+              "interval_upper": 0.4008369961616322
+            },
+            {
+              "source_id": "src_895",
+              "shapley_value": 0.09128805904263174,
+              "weight_in_cluster": 0.17165866212052802,
+              "interval_lower": 0.17165866212052802,
+              "interval_upper": 0.17165866212052802
+            }
+          ]
+        },
+        {
+          "cluster_id": 12,
+          "method": "shapley_exact",
+          "n": 2,
+          "metadata": {
+            "n_evaluations": 8,
+            "n": 2,
+            "v_full": 0.4421205665724443,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_859",
+              "shapley_value": 0.2383054524360737,
+              "weight_in_cluster": 0.5390055800469663,
+              "interval_lower": 0.5390055800469663,
+              "interval_upper": 0.5390055800469663
+            },
+            {
+              "source_id": "src_881",
+              "shapley_value": 0.2038151141363706,
+              "weight_in_cluster": 0.46099441995303375,
+              "interval_lower": 0.46099441995303375,
+              "interval_upper": 0.46099441995303375
+            }
+          ]
+        },
+        {
+          "cluster_id": 13,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_472",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 14,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_2825",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 15,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_644",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 16,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_675",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 17,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_3483",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 18,
+          "method": "shapley_exact",
+          "n": 2,
+          "metadata": {
+            "n_evaluations": 8,
+            "n": 2,
+            "v_full": 0.5902983004393405,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_3612",
+              "shapley_value": 0.21624291961118663,
+              "weight_in_cluster": 0.3663282097377611,
+              "interval_lower": 0.3663282097377611,
+              "interval_upper": 0.3663282097377611
+            },
+            {
+              "source_id": "src_3682",
+              "shapley_value": 0.37405538082815387,
+              "weight_in_cluster": 0.633671790262239,
+              "interval_lower": 0.633671790262239,
+              "interval_upper": 0.633671790262239
+            }
+          ]
+        },
+        {
+          "cluster_id": 19,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_2169",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 20,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_1447",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "verification": {
+    "overall_status": "PROVEN",
+    "axioms": [
+      {
+        "name": "efficiency",
+        "status": "PROVEN",
+        "detail": "sum(weights) = 1.000000 \u2248 1.000000 (tol=0.001)"
+      },
+      {
+        "name": "symmetry",
+        "status": "PROVEN",
+        "detail": "91 equivalent pair(s) have equal weights (within tol=0.001)"
+      },
+      {
+        "name": "dummy",
+        "status": "PROVEN",
+        "detail": "34 dummy source(s) all have zero weight (within tol=0.001)"
+      }
+    ],
+    "smt_lib_file": "/Users/gauravgupta/Desktop/cascade_v/outputs/proofs/output_011.smt2",
+    "smt_lib_hash": "c9e721a12b4db8ef9400a9cfccc3055bccdcb0e6b53277c58eda0c52aba2aa46"
+  },
+  "pipeline_metadata": {
+    "catalog_size": 5000,
+    "candidates_from_triage": 40,
+    "n_clusters": 20,
+    "validations_passed": true,
+    "validation_details": [
+      {
+        "stage": "stage1_triage",
+        "invariants": {
+          "scores_monotone_decreasing": true,
+          "shapes_aligned": true,
+          "indices_unique": true,
+          "top_score_nontrivial": true
+        },
+        "passed": true,
+        "context": {
+          "k": 40,
+          "catalog_size": 5000
+        }
+      },
+      {
+        "stage": "stage2_grouping",
+        "invariants": {
+          "weights_sum_to_one": true,
+          "partition_complete": true,
+          "cluster_ids_consistent": true,
+          "weights_nonneg": true,
+          "members_unique": true
+        },
+        "passed": true,
+        "context": {
+          "n_candidates": 40
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_1",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 1,
+          "members": [
+            1,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_2",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 2,
+          "members": [
+            17
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_3",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 3,
+          "members": [
+            18
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_4",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 4,
+          "members": [
+            21
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_5",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 5,
+          "members": [
+            6
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_6",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 6,
+          "members": [
+            0,
+            5
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_7",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 7,
+          "members": [
+            15
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_8",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 8,
+          "members": [
+            22
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_9",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 9,
+          "members": [
+            13,
+            14,
+            20
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_10",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 10,
+          "members": [
+            2
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_11",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 11,
+          "members": [
+            11,
+            12,
+            33
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_12",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 12,
+          "members": [
+            16,
+            19
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_13",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 13,
+          "members": [
+            8
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_14",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 14,
+          "members": [
+            7
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_15",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 15,
+          "members": [
+            23
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_16",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 16,
+          "members": [
+            9
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_17",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 17,
+          "members": [
+            38
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_18",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 18,
+          "members": [
+            4,
+            10
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_19",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 19,
+          "members": [
+            3
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_20",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 20,
+          "members": [
+            39
+          ]
+        }
+      }
+    ]
+  },
+  "currencies": {
+    "receipt_id": "output_011",
+    "dials": {
+      "alpha": 0.85,
+      "beta": 0.6,
+      "gamma": 0.3
+    },
+    "qws": {
+      "quantile_active": 0.5,
+      "output_quality_score": 0.5482617471058581,
+      "weights_by_quantile": {
+        "0.5": [
+          0.13607003109720692,
+          0.21833456536124163,
+          0.20952312080419122,
+          0.14371920592153103,
+          0.14858078079915196,
+          0.1437722960166771
+        ],
+        "0.75": [
+          0.1211250740990619,
+          0.24619207672040055,
+          0.23143991401625338,
+          0.13148086205837045,
+          0.13820835047216112,
+          0.13155372263375248
+        ],
+        "0.9": [
+          0.11240440441321266,
+          0.26328817128446846,
+          0.24447157646573645,
+          0.12403307574557873,
+          0.13168721174489864,
+          0.12411556034610499
+        ],
+        "0.99": [
+          0.10728593692399724,
+          0.2736249022343011,
+          0.2521926045574954,
+          0.11955628214164069,
+          0.12769653091080305,
+          0.11964374323176248
+        ]
+      },
+      "weights_final": [
+        0.13607003109720692,
+        0.21833456536124163,
+        0.20952312080419122,
+        0.14371920592153103,
+        0.14858078079915196,
+        0.1437722960166771
+      ]
+    },
+    "per_contributor": [
+      {
+        "contributor_id": "src_120",
+        "monetary": {
+          "weight_qws": 0.13607003109720692,
+          "weight_with_floor": 0.13607003109720694,
+          "payout_usd": 0.13607003109720694,
+          "interval_usd": [
+            0.13607003109620697,
+            0.13607003109620697
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.14830868532499084
+        },
+        "opportunity": {
+          "priority_adjustment": 0.021812629890782444,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_178",
+        "monetary": {
+          "weight_qws": 0.21833456536124163,
+          "weight_with_floor": 0.21833456536124166,
+          "payout_usd": 0.21833456536124166,
+          "interval_usd": [
+            0.2183345653602417,
+            0.21833456536024173
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.19766740588341164
+        },
+        "opportunity": {
+          "priority_adjustment": 0.03499999983969556,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_218",
+        "monetary": {
+          "weight_qws": 0.20952312080419122,
+          "weight_with_floor": 0.20952312080419125,
+          "payout_usd": 0.20952312080419125,
+          "interval_usd": [
+            0.2095231208031913,
+            0.20952312080319133
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.1923805391491814
+        },
+        "opportunity": {
+          "priority_adjustment": 0.033587486170254394,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2409",
+        "monetary": {
+          "weight_qws": 0.14371920592153103,
+          "weight_with_floor": 0.14371920592153106,
+          "payout_usd": 0.14371920592153106,
+          "interval_usd": [
+            0.14371920592053108,
+            0.14371920592053108
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.15289819021958528
+        },
+        "opportunity": {
+          "priority_adjustment": 0.02303882656368302,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2426",
+        "monetary": {
+          "weight_qws": 0.14858078079915196,
+          "weight_with_floor": 0.148580780799152,
+          "payout_usd": 0.148580780799152,
+          "interval_usd": [
+            0.148580780798152,
+            0.148580780798152
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": true,
+          "feature_probability": 0.15581513514615786
+        },
+        "opportunity": {
+          "priority_adjustment": 0.02381815859320328,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_3022",
+        "monetary": {
+          "weight_qws": 0.1437722960166771,
+          "weight_with_floor": 0.14377229601667713,
+          "payout_usd": 0.14377229601667713,
+          "interval_usd": [
+            0.14377229601567715,
+            0.14377229601567715
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.15293004427667295
+        },
+        "opportunity": {
+          "priority_adjustment": 0.02304733714155935,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      }
+    ],
+    "dignity_proof": {
+      "currency_1_monetary": "PROVEN",
+      "currency_1_floor_honored": "PROVEN",
+      "currency_1_efficiency": "PROVEN",
+      "currency_2_every_creator_recognized": "PROVEN",
+      "currency_3_opportunity_nonneg": "PROVEN",
+      "every_creator_received_all_three": "PROVEN"
+    }
+  }
+}

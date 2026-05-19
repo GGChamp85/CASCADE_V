@@ -1,0 +1,1722 @@
+{
+  "receipt_id": "output_015",
+  "created_at_utc": "2026-04-29T21:56:46.712620+00:00",
+  "total_payout_usd": 1.0,
+  "method": "CASCADE-V",
+  "version": "0.2.0",
+  "per_creator": [
+    {
+      "creator_id": "creator_12",
+      "creator_name": "Indigo Wave",
+      "weight_point": 0.2612190048043775,
+      "weight_lower": 0.2612190048043775,
+      "weight_upper": 0.26121900480437754,
+      "payout_usd": 0.2612190048043775,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_15",
+      "creator_name": "Ravi Pulse",
+      "weight_point": 0.2539420064188318,
+      "weight_lower": 0.2539420064188318,
+      "weight_upper": 0.2539420064188318,
+      "payout_usd": 0.2539420064188318,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_28",
+      "creator_name": "Aether Bloom",
+      "weight_point": 0.23091674261712528,
+      "weight_lower": 0.23091674261712528,
+      "weight_upper": 0.2309167426171253,
+      "payout_usd": 0.23091674261712528,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_24",
+      "creator_name": "Helio Dawn",
+      "weight_point": 0.2003613654078601,
+      "weight_lower": 0.20036136540786006,
+      "weight_upper": 0.2003613654078601,
+      "payout_usd": 0.2003613654078601,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.05356088075180528,
+      "weight_lower": 0.053560880751805276,
+      "weight_upper": 0.05356088075180528,
+      "payout_usd": 0.05356088075180528,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 4
+    },
+    {
+      "creator_id": "creator_06",
+      "creator_name": "Topline Tara",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 6
+    },
+    {
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 13
+    },
+    {
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 11
+    }
+  ],
+  "per_source": [
+    {
+      "source_id": "src_083",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1045",
+      "creator_id": "creator_06",
+      "creator_name": "Topline Tara",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1061",
+      "creator_id": "creator_06",
+      "creator_name": "Topline Tara",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1072",
+      "creator_id": "creator_06",
+      "creator_name": "Topline Tara",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1092",
+      "creator_id": "creator_06",
+      "creator_name": "Topline Tara",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_117",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_128",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_132",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1908",
+      "creator_id": "creator_12",
+      "creator_name": "Indigo Wave",
+      "weight_point": 0.2612190048043775,
+      "weight_lower": 0.2612190048043775,
+      "weight_upper": 0.26121900480437754,
+      "payout_usd": 0.2612190048043775,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2429",
+      "creator_id": "creator_15",
+      "creator_name": "Ravi Pulse",
+      "weight_point": 0.2539420064188318,
+      "weight_lower": 0.2539420064188318,
+      "weight_upper": 0.2539420064188318,
+      "payout_usd": 0.2539420064188318,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2699",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3308",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3327",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3353",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3355",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3373",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3378",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3389",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3390",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3394",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3410",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3417",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3425",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3437",
+      "creator_id": "creator_21",
+      "creator_name": "Jove Jive",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3893",
+      "creator_id": "creator_24",
+      "creator_name": "Helio Dawn",
+      "weight_point": 0.2003613654078601,
+      "weight_lower": 0.20036136540786006,
+      "weight_upper": 0.2003613654078601,
+      "payout_usd": 0.2003613654078601,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3916",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3933",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3953",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3963",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3969",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3974",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3981",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3986",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_3991",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4003",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4037",
+      "creator_id": "creator_25",
+      "creator_name": "Mira Fox",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4526",
+      "creator_id": "creator_28",
+      "creator_name": "Aether Bloom",
+      "weight_point": 0.23091674261712528,
+      "weight_lower": 0.23091674261712528,
+      "weight_upper": 0.2309167426171253,
+      "payout_usd": 0.23091674261712528,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_913",
+      "creator_id": "creator_05",
+      "creator_name": "Lowend Lex",
+      "weight_point": 0.05356088075180528,
+      "weight_lower": 0.053560880751805276,
+      "weight_upper": 0.05356088075180528,
+      "payout_usd": 0.05356088075180528,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_955",
+      "creator_id": "creator_06",
+      "creator_name": "Topline Tara",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_961",
+      "creator_id": "creator_06",
+      "creator_name": "Topline Tara",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    }
+  ],
+  "latency_ms": {
+    "stage1_triage": 3.844,
+    "stage2_grouping": 0.87,
+    "stage3_shapley_total": 84.193,
+    "compose": 0.283,
+    "stageV_proof": 16.745,
+    "total": 107.515
+  },
+  "stages": {
+    "stage1_triage": {
+      "method": "trak_cosine",
+      "k": 40,
+      "metadata": {
+        "catalog_size": 5000,
+        "k": 40,
+        "calibrated": true,
+        "n_residual_passes_requested": 2,
+        "n_residual_passes_used": 2,
+        "pre_nnls_active": 2,
+        "residual_strength": 0.55,
+        "n_unique_candidates_pre_rerank": 90,
+        "n_filtered_bpm": 0,
+        "n_filtered_key": 0,
+        "n_eligible_after_filter": 5000,
+        "raw_max_similarity": 0.8646556735038757,
+        "raw_min_similarity": -0.721154510974884,
+        "raw_mean_similarity": 0.07445837557315826,
+        "use_nnls_rerank": true,
+        "nnls_shortlist_size": 90,
+        "nnls_residual_norm": 0.10947060578838741,
+        "nnls_n_active": 8,
+        "nnls_active_mass": 1.3515881357352233
+      },
+      "candidates": [
+        {
+          "source_id": "src_3991",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 0.5274918522425082,
+          "rank": 1
+        },
+        {
+          "source_id": "src_1908",
+          "creator_id": "creator_12",
+          "creator_name": "Indigo Wave",
+          "score": 0.16088872390150621,
+          "rank": 2
+        },
+        {
+          "source_id": "src_3893",
+          "creator_id": "creator_24",
+          "creator_name": "Helio Dawn",
+          "score": 0.130055992673788,
+          "rank": 3
+        },
+        {
+          "source_id": "src_2699",
+          "creator_id": "creator_17",
+          "creator_name": "Onyx Channel",
+          "score": 0.08323203346428146,
+          "rank": 4
+        },
+        {
+          "source_id": "src_2429",
+          "creator_id": "creator_15",
+          "creator_name": "Ravi Pulse",
+          "score": 0.06324441336639199,
+          "rank": 5
+        },
+        {
+          "source_id": "src_4526",
+          "creator_id": "creator_28",
+          "creator_name": "Aether Bloom",
+          "score": 0.014228914572259202,
+          "rank": 6
+        },
+        {
+          "source_id": "src_3390",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 0.012776578796705839,
+          "rank": 7
+        },
+        {
+          "source_id": "src_913",
+          "creator_id": "creator_05",
+          "creator_name": "Lowend Lex",
+          "score": 0.008576065321077013,
+          "rank": 8
+        },
+        {
+          "source_id": "src_3916",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.138373959809542e-05,
+          "rank": 9
+        },
+        {
+          "source_id": "src_3981",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.128299668896943e-05,
+          "rank": 10
+        },
+        {
+          "source_id": "src_3986",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.100393461063504e-05,
+          "rank": 11
+        },
+        {
+          "source_id": "src_3974",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.096347301034257e-05,
+          "rank": 12
+        },
+        {
+          "source_id": "src_4037",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.084279397735372e-05,
+          "rank": 13
+        },
+        {
+          "source_id": "src_3963",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.06504103820771e-05,
+          "rank": 14
+        },
+        {
+          "source_id": "src_4003",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.029851596802473e-05,
+          "rank": 15
+        },
+        {
+          "source_id": "src_3933",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 8.017289655981585e-05,
+          "rank": 16
+        },
+        {
+          "source_id": "src_3969",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 7.9958641435951e-05,
+          "rank": 17
+        },
+        {
+          "source_id": "src_3953",
+          "creator_id": "creator_25",
+          "creator_name": "Mira Fox",
+          "score": 7.975382322911173e-05,
+          "rank": 18
+        },
+        {
+          "source_id": "src_3437",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.865703810239211e-05,
+          "rank": 19
+        },
+        {
+          "source_id": "src_3378",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.862911297706887e-05,
+          "rank": 20
+        },
+        {
+          "source_id": "src_3389",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.862367783673108e-05,
+          "rank": 21
+        },
+        {
+          "source_id": "src_3353",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.861282210797071e-05,
+          "rank": 22
+        },
+        {
+          "source_id": "src_3425",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.861228368710726e-05,
+          "rank": 23
+        },
+        {
+          "source_id": "src_3394",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.856979937059805e-05,
+          "rank": 24
+        },
+        {
+          "source_id": "src_3373",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.856838055886328e-05,
+          "rank": 25
+        },
+        {
+          "source_id": "src_3308",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.848429231671616e-05,
+          "rank": 26
+        },
+        {
+          "source_id": "src_3410",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.838624151190743e-05,
+          "rank": 27
+        },
+        {
+          "source_id": "src_3355",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.830925460439175e-05,
+          "rank": 28
+        },
+        {
+          "source_id": "src_3327",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.79811161919497e-05,
+          "rank": 29
+        },
+        {
+          "source_id": "src_3417",
+          "creator_id": "creator_21",
+          "creator_name": "Jove Jive",
+          "score": 7.788810034980997e-05,
+          "rank": 30
+        },
+        {
+          "source_id": "src_1092",
+          "creator_id": "creator_06",
+          "creator_name": "Topline Tara",
+          "score": 7.647514576092362e-05,
+          "rank": 31
+        },
+        {
+          "source_id": "src_128",
+          "creator_id": "creator_00",
+          "creator_name": "DJ Atlas",
+          "score": 7.645232108188793e-05,
+          "rank": 32
+        },
+        {
+          "source_id": "src_132",
+          "creator_id": "creator_00",
+          "creator_name": "DJ Atlas",
+          "score": 7.6441683631856e-05,
+          "rank": 33
+        },
+        {
+          "source_id": "src_955",
+          "creator_id": "creator_06",
+          "creator_name": "Topline Tara",
+          "score": 7.641525007784367e-05,
+          "rank": 34
+        },
+        {
+          "source_id": "src_1061",
+          "creator_id": "creator_06",
+          "creator_name": "Topline Tara",
+          "score": 7.641324191354215e-05,
+          "rank": 35
+        },
+        {
+          "source_id": "src_117",
+          "creator_id": "creator_00",
+          "creator_name": "DJ Atlas",
+          "score": 7.634331268491223e-05,
+          "rank": 36
+        },
+        {
+          "source_id": "src_961",
+          "creator_id": "creator_06",
+          "creator_name": "Topline Tara",
+          "score": 7.6306561823003e-05,
+          "rank": 37
+        },
+        {
+          "source_id": "src_1045",
+          "creator_id": "creator_06",
+          "creator_name": "Topline Tara",
+          "score": 7.630607433384284e-05,
+          "rank": 38
+        },
+        {
+          "source_id": "src_1072",
+          "creator_id": "creator_06",
+          "creator_name": "Topline Tara",
+          "score": 7.626113074366003e-05,
+          "rank": 39
+        },
+        {
+          "source_id": "src_083",
+          "creator_id": "creator_00",
+          "creator_name": "DJ Atlas",
+          "score": 7.623526471434161e-05,
+          "rank": 40
+        }
+      ]
+    },
+    "stage2_grouping": {
+      "method": "guda_ward",
+      "metadata": {
+        "n_clusters": 6,
+        "n_candidates": 40,
+        "v_full": 0.8229121498548565,
+        "distance_threshold": 0.6,
+        "clustering_method": "ward",
+        "max_cluster_size": 17,
+        "min_cluster_size": 2,
+        "n_active_clusters_before_sparsify": 4,
+        "n_active_clusters_after_sparsify": 3,
+        "min_cluster_weight_threshold": 0.07
+      },
+      "n_clusters": 6,
+      "clusters": [
+        {
+          "cluster_id": 1,
+          "weight": 0.5036720969510855,
+          "raw_score": 0.040152457228434524,
+          "member_local_indices": [
+            1,
+            4
+          ],
+          "member_source_ids": [
+            "src_1908",
+            "src_2429"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "weight": 0.4216599166195881,
+          "raw_score": 0.03361449218549328,
+          "member_local_indices": [
+            2,
+            5
+          ],
+          "member_source_ids": [
+            "src_3893",
+            "src_4526"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "weight": 0.0,
+          "raw_score": 0.00016486684170169408,
+          "member_local_indices": [
+            31,
+            32,
+            35,
+            39
+          ],
+          "member_source_ids": [
+            "src_128",
+            "src_132",
+            "src_117",
+            "src_083"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "weight": 0.07466798642932625,
+          "raw_score": 0.005952490021951751,
+          "member_local_indices": [
+            3,
+            7
+          ],
+          "member_source_ids": [
+            "src_2699",
+            "src_913"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "weight": 0.0,
+          "raw_score": -0.05587653081783872,
+          "member_local_indices": [
+            6,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "member_source_ids": [
+            "src_3390",
+            "src_3437",
+            "src_3378",
+            "src_3389",
+            "src_3353",
+            "src_3425",
+            "src_3394",
+            "src_3373",
+            "src_3308",
+            "src_3410",
+            "src_3355",
+            "src_3327",
+            "src_3417"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "weight": 0.0,
+          "raw_score": -0.023675444656166222,
+          "member_local_indices": [
+            0,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            30,
+            33,
+            34,
+            36,
+            37,
+            38
+          ],
+          "member_source_ids": [
+            "src_3991",
+            "src_3916",
+            "src_3981",
+            "src_3986",
+            "src_3974",
+            "src_4037",
+            "src_3963",
+            "src_4003",
+            "src_3933",
+            "src_3969",
+            "src_3953",
+            "src_1092",
+            "src_955",
+            "src_1061",
+            "src_961",
+            "src_1045",
+            "src_1072"
+          ]
+        }
+      ]
+    },
+    "stage3_shapley": {
+      "per_cluster": [
+        {
+          "cluster_id": 1,
+          "method": "shapley_exact",
+          "n": 2,
+          "metadata": {
+            "n_evaluations": 8,
+            "n": 2,
+            "v_full": 0.3180167087551157,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_1908",
+              "shapley_value": 0.16125445513612713,
+              "weight_in_cluster": 0.5070628388280657,
+              "interval_lower": 0.5070628388280657,
+              "interval_upper": 0.5070628388280657
+            },
+            {
+              "source_id": "src_2429",
+              "shapley_value": 0.15676225361898855,
+              "weight_in_cluster": 0.4929371611719343,
+              "interval_lower": 0.4929371611719343,
+              "interval_upper": 0.4929371611719343
+            }
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "method": "shapley_exact",
+          "n": 2,
+          "metadata": {
+            "n_evaluations": 8,
+            "n": 2,
+            "v_full": 0.33798516551727337,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_3893",
+              "shapley_value": 0.15701972344656845,
+              "weight_in_cluster": 0.46457578457994086,
+              "interval_lower": 0.46457578457994086,
+              "interval_upper": 0.46457578457994086
+            },
+            {
+              "source_id": "src_4526",
+              "shapley_value": 0.18096544207070492,
+              "weight_in_cluster": 0.5354242154200591,
+              "interval_lower": 0.5354242154200591,
+              "interval_upper": 0.5354242154200591
+            }
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "method": "shapley_exact",
+          "n": 4,
+          "metadata": {
+            "n_evaluations": 64,
+            "n": 4,
+            "v_full": 0.6634463880668783,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_128",
+              "shapley_value": 0.1666963222329041,
+              "weight_in_cluster": 0.25125816528840667,
+              "interval_lower": 0.25125816528840667,
+              "interval_upper": 0.25125816528840667
+            },
+            {
+              "source_id": "src_132",
+              "shapley_value": 0.16659294360711027,
+              "weight_in_cluster": 0.25110234467101655,
+              "interval_lower": 0.25110234467101655,
+              "interval_upper": 0.25110234467101655
+            },
+            {
+              "source_id": "src_117",
+              "shapley_value": 0.16560538711612005,
+              "weight_in_cluster": 0.24961381973704605,
+              "interval_lower": 0.24961381973704605,
+              "interval_upper": 0.24961381973704605
+            },
+            {
+              "source_id": "src_083",
+              "shapley_value": 0.1645517351107438,
+              "weight_in_cluster": 0.24802567030353065,
+              "interval_lower": 0.24802567030353065,
+              "interval_upper": 0.24802567030353065
+            }
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "method": "shapley_exact",
+          "n": 2,
+          "metadata": {
+            "n_evaluations": 8,
+            "n": 2,
+            "v_full": 0.5126006999816538,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_2699",
+              "shapley_value": 0.15310196222342415,
+              "weight_in_cluster": 0.2986768496978325,
+              "interval_lower": 0.2986768496978325,
+              "interval_upper": 0.2986768496978325
+            },
+            {
+              "source_id": "src_913",
+              "shapley_value": 0.35949873775822966,
+              "weight_in_cluster": 0.7013231503021675,
+              "interval_lower": 0.7013231503021675,
+              "interval_upper": 0.7013231503021675
+            }
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "method": "shapley_monte_carlo",
+          "n": 13,
+          "metadata": {
+            "n_permutations": 392,
+            "n_permutations_requested": 400,
+            "n_evaluations": 5096,
+            "n": 13,
+            "hoeffding_epsilon": 0.1371889701885601,
+            "confidence": 0.95,
+            "temperature": 8.0,
+            "antithetic": true,
+            "n_strata": 14,
+            "pairs_per_stratum": 14
+          },
+          "members": [
+            {
+              "source_id": "src_3390",
+              "shapley_value": 0.06369847309930499,
+              "weight_in_cluster": 0.09125835164035818,
+              "interval_lower": 0.0,
+              "interval_upper": 0.28780371094792434
+            },
+            {
+              "source_id": "src_3437",
+              "shapley_value": 0.034706595157925804,
+              "weight_in_cluster": 0.04972280356271372,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24626816287027986
+            },
+            {
+              "source_id": "src_3378",
+              "shapley_value": 0.0470352985393923,
+              "weight_in_cluster": 0.06738566255623359,
+              "interval_lower": 0.0,
+              "interval_upper": 0.26393102186379974
+            },
+            {
+              "source_id": "src_3389",
+              "shapley_value": 0.059496065105541965,
+              "weight_in_cluster": 0.08523772339337965,
+              "interval_lower": 0.0,
+              "interval_upper": 0.28178308270094576
+            },
+            {
+              "source_id": "src_3353",
+              "shapley_value": 0.05952835166513122,
+              "weight_in_cluster": 0.08528397910509287,
+              "interval_lower": 0.0,
+              "interval_upper": 0.281829338412659
+            },
+            {
+              "source_id": "src_3425",
+              "shapley_value": 0.05768930751238781,
+              "weight_in_cluster": 0.08264925130382264,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2791946106113888
+            },
+            {
+              "source_id": "src_3394",
+              "shapley_value": 0.061081269678636425,
+              "weight_in_cluster": 0.08750878499524616,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2840541443028123
+            },
+            {
+              "source_id": "src_3373",
+              "shapley_value": 0.05579226968223268,
+              "weight_in_cluster": 0.0799314381922043,
+              "interval_lower": 0.0,
+              "interval_upper": 0.27647679749977044
+            },
+            {
+              "source_id": "src_3308",
+              "shapley_value": 0.04655786076200975,
+              "weight_in_cluster": 0.06670165582177322,
+              "interval_lower": 0.0,
+              "interval_upper": 0.26324701512933935
+            },
+            {
+              "source_id": "src_3410",
+              "shapley_value": 0.04963073484733616,
+              "weight_in_cluster": 0.07110404429642445,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2676494036039906
+            },
+            {
+              "source_id": "src_3355",
+              "shapley_value": 0.07064608015196522,
+              "weight_in_cluster": 0.10121192095876651,
+              "interval_lower": 0.0,
+              "interval_upper": 0.29775728026633264
+            },
+            {
+              "source_id": "src_3327",
+              "shapley_value": 0.0478967459094125,
+              "weight_in_cluster": 0.06861982505947611,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2651651843670423
+            },
+            {
+              "source_id": "src_3417",
+              "shapley_value": 0.044242522038731406,
+              "weight_in_cluster": 0.06338455911450883,
+              "interval_lower": 0.0,
+              "interval_upper": 0.25992991842207497
+            }
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "method": "shapley_monte_carlo",
+          "n": 17,
+          "metadata": {
+            "n_permutations": 392,
+            "n_permutations_requested": 400,
+            "n_evaluations": 6664,
+            "n": 17,
+            "hoeffding_epsilon": 0.1371889701885601,
+            "confidence": 0.95,
+            "temperature": 8.0,
+            "antithetic": true,
+            "n_strata": 14,
+            "pairs_per_stratum": 14
+          },
+          "members": [
+            {
+              "source_id": "src_3991",
+              "shapley_value": 0.048789215473271454,
+              "weight_in_cluster": 0.06818092603968093,
+              "interval_lower": 0.0,
+              "interval_upper": 0.25989688087011875
+            },
+            {
+              "source_id": "src_3916",
+              "shapley_value": 0.051267004821416655,
+              "weight_in_cluster": 0.07164353495128246,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2633594897817203
+            },
+            {
+              "source_id": "src_3981",
+              "shapley_value": 0.05798756681731916,
+              "weight_in_cluster": 0.0810352444908373,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2727511993212751
+            },
+            {
+              "source_id": "src_3986",
+              "shapley_value": 0.04432468455820185,
+              "weight_in_cluster": 0.06194192733536708,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2536578821658049
+            },
+            {
+              "source_id": "src_3974",
+              "shapley_value": 0.03942633271214735,
+              "weight_in_cluster": 0.05509668168645642,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24681263651689428
+            },
+            {
+              "source_id": "src_4037",
+              "shapley_value": 0.04373166429414619,
+              "weight_in_cluster": 0.06111320585724122,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2528291606876791
+            },
+            {
+              "source_id": "src_3963",
+              "shapley_value": 0.06193140687976817,
+              "weight_in_cluster": 0.08654659910069933,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2782625539311372
+            },
+            {
+              "source_id": "src_4003",
+              "shapley_value": 0.0548984021155864,
+              "weight_in_cluster": 0.07671826361688532,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2684342184473232
+            },
+            {
+              "source_id": "src_3933",
+              "shapley_value": 0.06118438899584919,
+              "weight_in_cluster": 0.08550267226974419,
+              "interval_lower": 0.0,
+              "interval_upper": 0.277218627100182
+            },
+            {
+              "source_id": "src_3969",
+              "shapley_value": 0.04048577893361362,
+              "weight_in_cluster": 0.0565772142953151,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24829316912575294
+            },
+            {
+              "source_id": "src_3953",
+              "shapley_value": 0.0456947433402458,
+              "weight_in_cluster": 0.06385652824834402,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2555724830787819
+            },
+            {
+              "source_id": "src_1092",
+              "shapley_value": 0.03480505971278275,
+              "weight_in_cluster": 0.04863864235291833,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24035459718335617
+            },
+            {
+              "source_id": "src_955",
+              "shapley_value": 0.01561198930735695,
+              "weight_in_cluster": 0.021817114253053188,
+              "interval_lower": 0.0,
+              "interval_upper": 0.21353306908349104
+            },
+            {
+              "source_id": "src_1061",
+              "shapley_value": 0.03075680393339552,
+              "weight_in_cluster": 0.042981371064444295,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23469732589488215
+            },
+            {
+              "source_id": "src_961",
+              "shapley_value": 0.030352754684391126,
+              "weight_in_cluster": 0.0424167288234177,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23413268365385556
+            },
+            {
+              "source_id": "src_1045",
+              "shapley_value": 0.028928165076491087,
+              "weight_in_cluster": 0.04042592331955913,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23214187814999698
+            },
+            {
+              "source_id": "src_1072",
+              "shapley_value": 0.025408561864222218,
+              "weight_in_cluster": 0.03550742229475393,
+              "interval_lower": 0.0,
+              "interval_upper": 0.22722337712519178
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "verification": {
+    "overall_status": "VIOLATED",
+    "axioms": [
+      {
+        "name": "efficiency",
+        "status": "PROVEN",
+        "detail": "sum(weights) = 1.000000 \u2248 1.000000 (tol=0.001)"
+      },
+      {
+        "name": "symmetry",
+        "status": "VIOLATED",
+        "detail": "1 equivalent pair(s) have unequal weights: [(8, 9, 0.0072769983855456855)]"
+      },
+      {
+        "name": "dummy",
+        "status": "PROVEN",
+        "detail": "34 dummy source(s) all have zero weight (within tol=0.001)"
+      }
+    ],
+    "smt_lib_file": "/Users/gauravgupta/Desktop/cascade_v/outputs/proofs/output_015.smt2",
+    "smt_lib_hash": "def981067c22f1736c1457e993e5a9cd6931b269cdac5eaa3a7dc1db431fffec"
+  },
+  "pipeline_metadata": {
+    "catalog_size": 5000,
+    "candidates_from_triage": 40,
+    "n_clusters": 6,
+    "validations_passed": true,
+    "validation_details": [
+      {
+        "stage": "stage1_triage",
+        "invariants": {
+          "scores_monotone_decreasing": true,
+          "shapes_aligned": true,
+          "indices_unique": true,
+          "top_score_nontrivial": true
+        },
+        "passed": true,
+        "context": {
+          "k": 40,
+          "catalog_size": 5000
+        }
+      },
+      {
+        "stage": "stage2_grouping",
+        "invariants": {
+          "weights_sum_to_one": true,
+          "partition_complete": true,
+          "cluster_ids_consistent": true,
+          "weights_nonneg": true,
+          "members_unique": true
+        },
+        "passed": true,
+        "context": {
+          "n_candidates": 40
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_1",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 1,
+          "members": [
+            1,
+            4
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_2",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 2,
+          "members": [
+            2,
+            5
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_3",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 3,
+          "members": [
+            31,
+            32,
+            35,
+            39
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_4",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 4,
+          "members": [
+            3,
+            7
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_5",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 5,
+          "members": [
+            6,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_6",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 6,
+          "members": [
+            0,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            30,
+            33,
+            34,
+            36,
+            37,
+            38
+          ]
+        }
+      }
+    ]
+  },
+  "currencies": {
+    "receipt_id": "output_015",
+    "dials": {
+      "alpha": 0.85,
+      "beta": 0.6,
+      "gamma": 0.3
+    },
+    "qws": {
+      "quantile_active": 0.5,
+      "output_quality_score": 0.4259704117223837,
+      "weights_by_quantile": {
+        "0.5": [
+          0.2612190048043775,
+          0.2539420064188318,
+          0.20036136540786006,
+          0.23091674261712525,
+          0.053560880751805276
+        ],
+        "0.75": [
+          0.28135292790833977,
+          0.26967836300281645,
+          0.18900150302725785,
+          0.23384463870118216,
+          0.02612256736040373
+        ],
+        "0.9": [
+          0.29158995606235255,
+          0.2771316691842702,
+          0.18089607469608168,
+          0.23355207734747968,
+          0.016830222709815757
+        ],
+        "0.99": [
+          0.2972805492710868,
+          0.2811068648595782,
+          0.17582828321101834,
+          0.23288353577962184,
+          0.012900766878694936
+        ]
+      },
+      "weights_final": [
+        0.2612190048043775,
+        0.2539420064188318,
+        0.20036136540786006,
+        0.23091674261712525,
+        0.053560880751805276
+      ]
+    },
+    "per_contributor": [
+      {
+        "contributor_id": "src_1908",
+        "monetary": {
+          "weight_qws": 0.2612190048043775,
+          "weight_with_floor": 0.26121900480437754,
+          "payout_usd": 0.26121900480437754,
+          "interval_usd": [
+            0.2612190048033776,
+            0.2612190048033777
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.23673140288262653
+        },
+        "opportunity": {
+          "priority_adjustment": 0.03499999986601281,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2429",
+        "monetary": {
+          "weight_qws": 0.2539420064188318,
+          "weight_with_floor": 0.25394200641883186,
+          "payout_usd": 0.25394200641883186,
+          "interval_usd": [
+            0.25394200641783193,
+            0.25394200641783193
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.23236520385129913
+        },
+        "opportunity": {
+          "priority_adjustment": 0.034024975316364094,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_3893",
+        "monetary": {
+          "weight_qws": 0.20036136540786006,
+          "weight_with_floor": 0.2003613654078601,
+          "payout_usd": 0.2003613654078601,
+          "interval_usd": [
+            0.20036136540686011,
+            0.20036136540686014
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.20021681924471607
+        },
+        "opportunity": {
+          "priority_adjustment": 0.026845855904247467,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_4526",
+        "monetary": {
+          "weight_qws": 0.23091674261712525,
+          "weight_with_floor": 0.23091674261712528,
+          "payout_usd": 0.23091674261712528,
+          "interval_usd": [
+            0.23091674261612533,
+            0.23091674261612535
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": true,
+          "feature_probability": 0.2185500455702752
+        },
+        "opportunity": {
+          "priority_adjustment": 0.03093988497013085,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_913",
+        "monetary": {
+          "weight_qws": 0.053560880751805276,
+          "weight_with_floor": 0.05356088075180528,
+          "payout_usd": 0.05356088075180528,
+          "interval_usd": [
+            0.05356088075080529,
+            0.0535608807508053
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.11213652845108318
+        },
+        "opportunity": {
+          "priority_adjustment": 0.028252944788225175,
+          "diversity_amplified": true,
+          "under_represented_protected": false
+        }
+      }
+    ],
+    "dignity_proof": {
+      "currency_1_monetary": "PROVEN",
+      "currency_1_floor_honored": "PROVEN",
+      "currency_1_efficiency": "PROVEN",
+      "currency_2_every_creator_recognized": "PROVEN",
+      "currency_3_opportunity_nonneg": "PROVEN",
+      "every_creator_received_all_three": "PROVEN"
+    }
+  }
+}

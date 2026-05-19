@@ -1,0 +1,872 @@
+[
+  {
+    "output_id": "output_000",
+    "file_path": "data/test_outputs/output_000.wav",
+    "source_ids": [
+      "src_4292",
+      "src_2164",
+      "src_3868"
+    ],
+    "weights": [
+      0.029310166835784912,
+      0.4925844967365265,
+      0.4781053364276886
+    ],
+    "creator_ids": [
+      "creator_27",
+      "creator_13",
+      "creator_24"
+    ],
+    "creator_weights": {
+      "creator_27": 0.029310166835784912,
+      "creator_13": 0.4925844967365265,
+      "creator_24": 0.4781053364276886
+    }
+  },
+  {
+    "output_id": "output_001",
+    "file_path": "data/test_outputs/output_001.wav",
+    "source_ids": [
+      "src_3965",
+      "src_3985",
+      "src_3977",
+      "src_3118",
+      "src_3785"
+    ],
+    "weights": [
+      0.45727506279945374,
+      0.057094424962997437,
+      0.03400169685482979,
+      0.1170227900147438,
+      0.33460602164268494
+    ],
+    "creator_ids": [
+      "creator_25",
+      "creator_25",
+      "creator_25",
+      "creator_19",
+      "creator_24"
+    ],
+    "creator_weights": {
+      "creator_25": 0.548371184617281,
+      "creator_19": 0.1170227900147438,
+      "creator_24": 0.33460602164268494
+    }
+  },
+  {
+    "output_id": "output_002",
+    "file_path": "data/test_outputs/output_002.wav",
+    "source_ids": [
+      "src_825",
+      "src_3787",
+      "src_1771",
+      "src_4853",
+      "src_339",
+      "src_3500"
+    ],
+    "weights": [
+      0.14871539175510406,
+      0.025285813957452774,
+      0.058929890394210815,
+      0.22482521831989288,
+      0.12750986218452454,
+      0.4147338271141052
+    ],
+    "creator_ids": [
+      "creator_05",
+      "creator_24",
+      "creator_11",
+      "creator_31",
+      "creator_02",
+      "creator_22"
+    ],
+    "creator_weights": {
+      "creator_05": 0.14871539175510406,
+      "creator_24": 0.025285813957452774,
+      "creator_11": 0.058929890394210815,
+      "creator_31": 0.22482521831989288,
+      "creator_02": 0.12750986218452454,
+      "creator_22": 0.4147338271141052
+    }
+  },
+  {
+    "output_id": "output_003",
+    "file_path": "data/test_outputs/output_003.wav",
+    "source_ids": [
+      "src_4525",
+      "src_381",
+      "src_1851"
+    ],
+    "weights": [
+      0.2225949615240097,
+      0.20840273797512054,
+      0.5690023303031921
+    ],
+    "creator_ids": [
+      "creator_28",
+      "creator_02",
+      "creator_11"
+    ],
+    "creator_weights": {
+      "creator_28": 0.2225949615240097,
+      "creator_02": 0.20840273797512054,
+      "creator_11": 0.5690023303031921
+    }
+  },
+  {
+    "output_id": "output_004",
+    "file_path": "data/test_outputs/output_004.wav",
+    "source_ids": [
+      "src_4699",
+      "src_2185",
+      "src_803"
+    ],
+    "weights": [
+      0.02851072885096073,
+      0.4427471458911896,
+      0.5287421345710754
+    ],
+    "creator_ids": [
+      "creator_30",
+      "creator_13",
+      "creator_05"
+    ],
+    "creator_weights": {
+      "creator_30": 0.02851072885096073,
+      "creator_13": 0.4427471458911896,
+      "creator_05": 0.5287421345710754
+    }
+  },
+  {
+    "output_id": "output_005",
+    "file_path": "data/test_outputs/output_005.wav",
+    "source_ids": [
+      "src_1197",
+      "src_1440",
+      "src_3183",
+      "src_3411",
+      "src_4486"
+    ],
+    "weights": [
+      0.026456383988261223,
+      0.20788955688476562,
+      0.6316654682159424,
+      0.08908640593290329,
+      0.04490215703845024
+    ],
+    "creator_ids": [
+      "creator_07",
+      "creator_09",
+      "creator_20",
+      "creator_21",
+      "creator_28"
+    ],
+    "creator_weights": {
+      "creator_07": 0.026456383988261223,
+      "creator_09": 0.20788955688476562,
+      "creator_20": 0.6316654682159424,
+      "creator_21": 0.08908640593290329,
+      "creator_28": 0.04490215703845024
+    }
+  },
+  {
+    "output_id": "output_006",
+    "file_path": "data/test_outputs/output_006.wav",
+    "source_ids": [
+      "src_698",
+      "src_1227",
+      "src_186"
+    ],
+    "weights": [
+      0.16791871190071106,
+      0.1840241253376007,
+      0.6480571627616882
+    ],
+    "creator_ids": [
+      "creator_04",
+      "creator_07",
+      "creator_01"
+    ],
+    "creator_weights": {
+      "creator_04": 0.16791871190071106,
+      "creator_07": 0.1840241253376007,
+      "creator_01": 0.6480571627616882
+    }
+  },
+  {
+    "output_id": "output_007",
+    "file_path": "data/test_outputs/output_007.wav",
+    "source_ids": [
+      "src_3974",
+      "src_2795",
+      "src_2824",
+      "src_452",
+      "src_2766"
+    ],
+    "weights": [
+      0.13689367473125458,
+      0.33221113681793213,
+      0.4467785060405731,
+      0.07315635681152344,
+      0.010960322804749012
+    ],
+    "creator_ids": [
+      "creator_25",
+      "creator_17",
+      "creator_18",
+      "creator_02",
+      "creator_17"
+    ],
+    "creator_weights": {
+      "creator_25": 0.13689367473125458,
+      "creator_17": 0.34317145962268114,
+      "creator_18": 0.4467785060405731,
+      "creator_02": 0.07315635681152344
+    }
+  },
+  {
+    "output_id": "output_008",
+    "file_path": "data/test_outputs/output_008.wav",
+    "source_ids": [
+      "src_4635",
+      "src_4599",
+      "src_2697",
+      "src_2446"
+    ],
+    "weights": [
+      0.6990538239479065,
+      0.15363451838493347,
+      0.07151089608669281,
+      0.07580077648162842
+    ],
+    "creator_ids": [
+      "creator_29",
+      "creator_29",
+      "creator_17",
+      "creator_15"
+    ],
+    "creator_weights": {
+      "creator_29": 0.85268834233284,
+      "creator_17": 0.07151089608669281,
+      "creator_15": 0.07580077648162842
+    }
+  },
+  {
+    "output_id": "output_009",
+    "file_path": "data/test_outputs/output_009.wav",
+    "source_ids": [
+      "src_108",
+      "src_111",
+      "src_072",
+      "src_4518"
+    ],
+    "weights": [
+      0.05024942383170128,
+      0.5147348642349243,
+      0.3466702103614807,
+      0.088345468044281
+    ],
+    "creator_ids": [
+      "creator_00",
+      "creator_00",
+      "creator_00",
+      "creator_28"
+    ],
+    "creator_weights": {
+      "creator_00": 0.9116544984281063,
+      "creator_28": 0.088345468044281
+    }
+  },
+  {
+    "output_id": "output_010",
+    "file_path": "data/test_outputs/output_010.wav",
+    "source_ids": [
+      "src_1808",
+      "src_3034",
+      "src_4798",
+      "src_3149",
+      "src_3415"
+    ],
+    "weights": [
+      0.11078731715679169,
+      0.3384964168071747,
+      0.22472991049289703,
+      0.12276183813810349,
+      0.2032245397567749
+    ],
+    "creator_ids": [
+      "creator_11",
+      "creator_19",
+      "creator_30",
+      "creator_20",
+      "creator_21"
+    ],
+    "creator_weights": {
+      "creator_11": 0.11078731715679169,
+      "creator_19": 0.3384964168071747,
+      "creator_30": 0.22472991049289703,
+      "creator_20": 0.12276183813810349,
+      "creator_21": 0.2032245397567749
+    }
+  },
+  {
+    "output_id": "output_011",
+    "file_path": "data/test_outputs/output_011.wav",
+    "source_ids": [
+      "src_1360",
+      "src_481",
+      "src_2245",
+      "src_3941",
+      "src_396",
+      "src_3682"
+    ],
+    "weights": [
+      0.05104706808924675,
+      0.1591920107603073,
+      0.068092942237854,
+      0.11262458562850952,
+      0.3553692698478699,
+      0.25367411971092224
+    ],
+    "creator_ids": [
+      "creator_08",
+      "creator_03",
+      "creator_14",
+      "creator_25",
+      "creator_02",
+      "creator_23"
+    ],
+    "creator_weights": {
+      "creator_08": 0.05104706808924675,
+      "creator_03": 0.1591920107603073,
+      "creator_14": 0.068092942237854,
+      "creator_25": 0.11262458562850952,
+      "creator_02": 0.3553692698478699,
+      "creator_23": 0.25367411971092224
+    }
+  },
+  {
+    "output_id": "output_012",
+    "file_path": "data/test_outputs/output_012.wav",
+    "source_ids": [
+      "src_701",
+      "src_1542",
+      "src_3135"
+    ],
+    "weights": [
+      0.20844508707523346,
+      0.6727206707000732,
+      0.1188342273235321
+    ],
+    "creator_ids": [
+      "creator_04",
+      "creator_09",
+      "creator_20"
+    ],
+    "creator_weights": {
+      "creator_04": 0.20844508707523346,
+      "creator_09": 0.6727206707000732,
+      "creator_20": 0.1188342273235321
+    }
+  },
+  {
+    "output_id": "output_013",
+    "file_path": "data/test_outputs/output_013.wav",
+    "source_ids": [
+      "src_722",
+      "src_3301",
+      "src_1648",
+      "src_3388",
+      "src_940"
+    ],
+    "weights": [
+      0.28335219621658325,
+      0.06717763096094131,
+      0.31921279430389404,
+      0.31252357363700867,
+      0.01773381419479847
+    ],
+    "creator_ids": [
+      "creator_04",
+      "creator_21",
+      "creator_10",
+      "creator_21",
+      "creator_05"
+    ],
+    "creator_weights": {
+      "creator_04": 0.28335219621658325,
+      "creator_21": 0.37970120459795,
+      "creator_10": 0.31921279430389404,
+      "creator_05": 0.01773381419479847
+    }
+  },
+  {
+    "output_id": "output_014",
+    "file_path": "data/test_outputs/output_014.wav",
+    "source_ids": [
+      "src_2411",
+      "src_2089",
+      "src_2335"
+    ],
+    "weights": [
+      0.34112975001335144,
+      0.09925175458192825,
+      0.5596184730529785
+    ],
+    "creator_ids": [
+      "creator_15",
+      "creator_13",
+      "creator_14"
+    ],
+    "creator_weights": {
+      "creator_15": 0.34112975001335144,
+      "creator_13": 0.09925175458192825,
+      "creator_14": 0.5596184730529785
+    }
+  },
+  {
+    "output_id": "output_015",
+    "file_path": "data/test_outputs/output_015.wav",
+    "source_ids": [
+      "src_4037",
+      "src_2366",
+      "src_2710"
+    ],
+    "weights": [
+      0.4239622950553894,
+      0.5502557754516602,
+      0.025781946256756783
+    ],
+    "creator_ids": [
+      "creator_25",
+      "creator_15",
+      "creator_17"
+    ],
+    "creator_weights": {
+      "creator_25": 0.4239622950553894,
+      "creator_15": 0.5502557754516602,
+      "creator_17": 0.025781946256756783
+    }
+  },
+  {
+    "output_id": "output_016",
+    "file_path": "data/test_outputs/output_016.wav",
+    "source_ids": [
+      "src_2713",
+      "src_049",
+      "src_701",
+      "src_4479"
+    ],
+    "weights": [
+      0.44521206617355347,
+      0.05825332552194595,
+      0.10690570622682571,
+      0.38962891697883606
+    ],
+    "creator_ids": [
+      "creator_17",
+      "creator_00",
+      "creator_04",
+      "creator_28"
+    ],
+    "creator_weights": {
+      "creator_17": 0.44521206617355347,
+      "creator_00": 0.05825332552194595,
+      "creator_04": 0.10690570622682571,
+      "creator_28": 0.38962891697883606
+    }
+  },
+  {
+    "output_id": "output_017",
+    "file_path": "data/test_outputs/output_017.wav",
+    "source_ids": [
+      "src_1602",
+      "src_538",
+      "src_3073"
+    ],
+    "weights": [
+      0.1944187730550766,
+      0.29932811856269836,
+      0.5062531232833862
+    ],
+    "creator_ids": [
+      "creator_10",
+      "creator_03",
+      "creator_19"
+    ],
+    "creator_weights": {
+      "creator_10": 0.1944187730550766,
+      "creator_03": 0.29932811856269836,
+      "creator_19": 0.5062531232833862
+    }
+  },
+  {
+    "output_id": "output_018",
+    "file_path": "data/test_outputs/output_018.wav",
+    "source_ids": [
+      "src_4040",
+      "src_4816",
+      "src_2299"
+    ],
+    "weights": [
+      0.10162772983312607,
+      0.7125003337860107,
+      0.1858719289302826
+    ],
+    "creator_ids": [
+      "creator_25",
+      "creator_30",
+      "creator_14"
+    ],
+    "creator_weights": {
+      "creator_25": 0.10162772983312607,
+      "creator_30": 0.7125003337860107,
+      "creator_14": 0.1858719289302826
+    }
+  },
+  {
+    "output_id": "output_019",
+    "file_path": "data/test_outputs/output_019.wav",
+    "source_ids": [
+      "src_822",
+      "src_224",
+      "src_2664",
+      "src_902",
+      "src_1493",
+      "src_2175"
+    ],
+    "weights": [
+      0.10194770246744156,
+      0.12729991972446442,
+      0.10923456400632858,
+      0.11707223951816559,
+      0.24173203110694885,
+      0.302713543176651
+    ],
+    "creator_ids": [
+      "creator_05",
+      "creator_01",
+      "creator_17",
+      "creator_05",
+      "creator_09",
+      "creator_13"
+    ],
+    "creator_weights": {
+      "creator_05": 0.21901994198560715,
+      "creator_01": 0.12729991972446442,
+      "creator_17": 0.10923456400632858,
+      "creator_09": 0.24173203110694885,
+      "creator_13": 0.302713543176651
+    }
+  },
+  {
+    "output_id": "output_020",
+    "file_path": "data/test_outputs/output_020.wav",
+    "source_ids": [
+      "src_3733",
+      "src_1899",
+      "src_3681",
+      "src_4427",
+      "src_472"
+    ],
+    "weights": [
+      0.065214142203331,
+      0.48779743909835815,
+      0.26614096760749817,
+      0.05352908745408058,
+      0.1273183822631836
+    ],
+    "creator_ids": [
+      "creator_23",
+      "creator_12",
+      "creator_23",
+      "creator_28",
+      "creator_03"
+    ],
+    "creator_weights": {
+      "creator_23": 0.33135510981082916,
+      "creator_12": 0.48779743909835815,
+      "creator_28": 0.05352908745408058,
+      "creator_03": 0.1273183822631836
+    }
+  },
+  {
+    "output_id": "output_021",
+    "file_path": "data/test_outputs/output_021.wav",
+    "source_ids": [
+      "src_1402",
+      "src_981",
+      "src_223"
+    ],
+    "weights": [
+      0.6164038777351379,
+      0.3246482014656067,
+      0.05894789472222328
+    ],
+    "creator_ids": [
+      "creator_08",
+      "creator_06",
+      "creator_01"
+    ],
+    "creator_weights": {
+      "creator_08": 0.6164038777351379,
+      "creator_06": 0.3246482014656067,
+      "creator_01": 0.05894789472222328
+    }
+  },
+  {
+    "output_id": "output_022",
+    "file_path": "data/test_outputs/output_022.wav",
+    "source_ids": [
+      "src_805",
+      "src_828",
+      "src_3436",
+      "src_4849",
+      "src_1593",
+      "src_589"
+    ],
+    "weights": [
+      0.3704149127006531,
+      0.037490326911211014,
+      0.22402702271938324,
+      0.09856236726045609,
+      0.22328361868858337,
+      0.046221766620874405
+    ],
+    "creator_ids": [
+      "creator_05",
+      "creator_05",
+      "creator_21",
+      "creator_31",
+      "creator_10",
+      "creator_03"
+    ],
+    "creator_weights": {
+      "creator_05": 0.4079052396118641,
+      "creator_21": 0.22402702271938324,
+      "creator_31": 0.09856236726045609,
+      "creator_10": 0.22328361868858337,
+      "creator_03": 0.046221766620874405
+    }
+  },
+  {
+    "output_id": "output_023",
+    "file_path": "data/test_outputs/output_023.wav",
+    "source_ids": [
+      "src_4865",
+      "src_1987",
+      "src_618",
+      "src_404"
+    ],
+    "weights": [
+      0.2628234028816223,
+      0.23644515872001648,
+      0.21415869891643524,
+      0.28657272458076477
+    ],
+    "creator_ids": [
+      "creator_31",
+      "creator_12",
+      "creator_03",
+      "creator_02"
+    ],
+    "creator_weights": {
+      "creator_31": 0.2628234028816223,
+      "creator_12": 0.23644515872001648,
+      "creator_03": 0.21415869891643524,
+      "creator_02": 0.28657272458076477
+    }
+  },
+  {
+    "output_id": "output_024",
+    "file_path": "data/test_outputs/output_024.wav",
+    "source_ids": [
+      "src_740",
+      "src_4203",
+      "src_3169",
+      "src_124"
+    ],
+    "weights": [
+      0.15807142853736877,
+      0.4506024718284607,
+      0.07250051945447922,
+      0.3188256025314331
+    ],
+    "creator_ids": [
+      "creator_04",
+      "creator_26",
+      "creator_20",
+      "creator_00"
+    ],
+    "creator_weights": {
+      "creator_04": 0.15807142853736877,
+      "creator_26": 0.4506024718284607,
+      "creator_20": 0.07250051945447922,
+      "creator_00": 0.3188256025314331
+    }
+  },
+  {
+    "output_id": "output_025",
+    "file_path": "data/test_outputs/output_025.wav",
+    "source_ids": [
+      "src_3922",
+      "src_3169",
+      "src_089",
+      "src_4018",
+      "src_4234"
+    ],
+    "weights": [
+      0.09913964569568634,
+      0.09309621900320053,
+      0.3009539842605591,
+      0.38019073009490967,
+      0.12661941349506378
+    ],
+    "creator_ids": [
+      "creator_25",
+      "creator_20",
+      "creator_00",
+      "creator_25",
+      "creator_27"
+    ],
+    "creator_weights": {
+      "creator_25": 0.479330375790596,
+      "creator_20": 0.09309621900320053,
+      "creator_00": 0.3009539842605591,
+      "creator_27": 0.12661941349506378
+    }
+  },
+  {
+    "output_id": "output_026",
+    "file_path": "data/test_outputs/output_026.wav",
+    "source_ids": [
+      "src_593",
+      "src_1869",
+      "src_3012",
+      "src_568",
+      "src_2128",
+      "src_4630"
+    ],
+    "weights": [
+      0.0787983387708664,
+      0.26764392852783203,
+      0.13392725586891174,
+      0.4466634690761566,
+      0.0575871542096138,
+      0.015379872173070908
+    ],
+    "creator_ids": [
+      "creator_03",
+      "creator_11",
+      "creator_19",
+      "creator_03",
+      "creator_13",
+      "creator_29"
+    ],
+    "creator_weights": {
+      "creator_03": 0.525461807847023,
+      "creator_11": 0.26764392852783203,
+      "creator_19": 0.13392725586891174,
+      "creator_13": 0.0575871542096138,
+      "creator_29": 0.015379872173070908
+    }
+  },
+  {
+    "output_id": "output_027",
+    "file_path": "data/test_outputs/output_027.wav",
+    "source_ids": [
+      "src_3021",
+      "src_3099",
+      "src_4627",
+      "src_696"
+    ],
+    "weights": [
+      0.13683003187179565,
+      0.5419074892997742,
+      0.0908881202340126,
+      0.23037436604499817
+    ],
+    "creator_ids": [
+      "creator_19",
+      "creator_19",
+      "creator_29",
+      "creator_04"
+    ],
+    "creator_weights": {
+      "creator_19": 0.6787375211715698,
+      "creator_29": 0.0908881202340126,
+      "creator_04": 0.23037436604499817
+    }
+  },
+  {
+    "output_id": "output_028",
+    "file_path": "data/test_outputs/output_028.wav",
+    "source_ids": [
+      "src_3470",
+      "src_3467",
+      "src_2078",
+      "src_258",
+      "src_2499",
+      "src_2862"
+    ],
+    "weights": [
+      0.18441256880760193,
+      0.03816090151667595,
+      0.6224884390830994,
+      0.1160118505358696,
+      0.0159965418279171,
+      0.02292967215180397
+    ],
+    "creator_ids": [
+      "creator_22",
+      "creator_22",
+      "creator_13",
+      "creator_01",
+      "creator_15",
+      "creator_18"
+    ],
+    "creator_weights": {
+      "creator_22": 0.22257347032427788,
+      "creator_13": 0.6224884390830994,
+      "creator_01": 0.1160118505358696,
+      "creator_15": 0.0159965418279171,
+      "creator_18": 0.02292967215180397
+    }
+  },
+  {
+    "output_id": "output_029",
+    "file_path": "data/test_outputs/output_029.wav",
+    "source_ids": [
+      "src_2080",
+      "src_4742",
+      "src_2854",
+      "src_3210",
+      "src_1411",
+      "src_1182"
+    ],
+    "weights": [
+      0.017441214993596077,
+      0.2271045744419098,
+      0.011812066659331322,
+      0.6267901062965393,
+      0.059492528438568115,
+      0.057359520345926285
+    ],
+    "creator_ids": [
+      "creator_13",
+      "creator_30",
+      "creator_18",
+      "creator_20",
+      "creator_08",
+      "creator_07"
+    ],
+    "creator_weights": {
+      "creator_13": 0.017441214993596077,
+      "creator_30": 0.2271045744419098,
+      "creator_18": 0.011812066659331322,
+      "creator_20": 0.6267901062965393,
+      "creator_08": 0.059492528438568115,
+      "creator_07": 0.057359520345926285
+    }
+  }
+]

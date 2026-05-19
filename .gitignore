@@ -26,18 +26,10 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Generated artifacts
-data/catalog/
-data/test_outputs/
-data/catalog_metadata.json
-data/catalog_embeddings.npy
-data/ground_truth.json
-models/*.pt
+# Generated artifacts — tracked so EC2 deploy ships with a populated dashboard.
+# Excluded: HF model cache (huge), runtime uploads, logs.
 models/hf_cache/
-outputs/receipts/*.json
-outputs/proofs/*.smt2
-outputs/plots/*.png
-outputs/results.csv
+data/uploads/
 logs/*.json
 logs/*.jsonl
 logs/*.log

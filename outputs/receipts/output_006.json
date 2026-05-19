@@ -1,0 +1,2474 @@
+{
+  "receipt_id": "output_006",
+  "created_at_utc": "2026-04-29T21:56:10.797502+00:00",
+  "total_payout_usd": 1.0,
+  "method": "CASCADE-V",
+  "version": "0.2.0",
+  "per_creator": [
+    {
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.911610489876682,
+      "weight_lower": 0.0,
+      "weight_upper": 3.7269682424827,
+      "payout_usd": 0.911610489876682,
+      "n_sources": 27
+    },
+    {
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.07270087750482618,
+      "weight_lower": 0.0,
+      "weight_upper": 0.2913750562235574,
+      "payout_usd": 0.07270087750482618,
+      "n_sources": 16
+    },
+    {
+      "creator_id": "creator_27",
+      "creator_name": "Delta Storm",
+      "weight_point": 0.00792826938774465,
+      "weight_lower": 0.00792826938774465,
+      "weight_upper": 0.007928269387744652,
+      "payout_usd": 0.00792826938774465,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_16",
+      "creator_name": "Ada Lattice",
+      "weight_point": 0.007760363230747218,
+      "weight_lower": 0.007760363230747218,
+      "weight_upper": 0.007760363230747219,
+      "payout_usd": 0.007760363230747218,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 3
+    },
+    {
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 6
+    },
+    {
+      "creator_id": "creator_11",
+      "creator_name": "Riff Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 10
+    },
+    {
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 2
+    },
+    {
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 12
+    }
+  ],
+  "per_source": [
+    {
+      "source_id": "src_1284",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1296",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1340",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1431",
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1433",
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1467",
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1477",
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1504",
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_1554",
+      "creator_id": "creator_09",
+      "creator_name": "Echo Park",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_157",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_161",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_164",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_171",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.13466491100514505,
+      "weight_lower": 0.0,
+      "weight_upper": 0.5368588756631477,
+      "payout_usd": 0.13466491100514505,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_180",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_1827",
+      "creator_id": "creator_11",
+      "creator_name": "Riff Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_183",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_184",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_186",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_199",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_204",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.11319369685180604,
+      "weight_lower": 0.0,
+      "weight_upper": 0.5153876615098086,
+      "payout_usd": 0.11319369685180604,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_210",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_225",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_232",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_242",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_245",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.15546978539041856,
+      "weight_lower": 0.0,
+      "weight_upper": 0.5576637500484212,
+      "payout_usd": 0.15546978539041856,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_246",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.13393504271104867,
+      "weight_lower": 0.0,
+      "weight_upper": 0.5361290073690513,
+      "payout_usd": 0.13393504271104867,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_247",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_248",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2509",
+      "creator_id": "creator_16",
+      "creator_name": "Ada Lattice",
+      "weight_point": 0.007760363230747218,
+      "weight_lower": 0.007760363230747218,
+      "weight_upper": 0.007760363230747219,
+      "payout_usd": 0.007760363230747218,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_252",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.1202607163574902,
+      "weight_lower": 0.0,
+      "weight_upper": 0.5224546810154928,
+      "payout_usd": 0.1202607163574902,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_253",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_255",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_264",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2666",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.007384912589378468,
+      "weight_lower": 0.0,
+      "weight_upper": 0.031682043558126385,
+      "payout_usd": 0.007384912589378468,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2679",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_268",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_2695",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2710",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.007904408483968174,
+      "weight_lower": 0.0,
+      "weight_upper": 0.032201539452716095,
+      "payout_usd": 0.007904408483968174,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2716",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.009304882945596692,
+      "weight_lower": 0.0,
+      "weight_upper": 0.03360201391434461,
+      "payout_usd": 0.009304882945596692,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2719",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.00818541421524375,
+      "weight_lower": 0.0,
+      "weight_upper": 0.03248254518399166,
+      "payout_usd": 0.00818541421524375,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2722",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.00915535603580379,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0334524870045517,
+      "payout_usd": 0.00915535603580379,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2727",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.007751670604708347,
+      "weight_lower": 0.0,
+      "weight_upper": 0.03204880157345626,
+      "payout_usd": 0.007751670604708347,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2737",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2756",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2776",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.007777040882001186,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0320741718507491,
+      "payout_usd": 0.007777040882001186,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2791",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.00748763251124981,
+      "weight_lower": 0.0,
+      "weight_upper": 0.03178476347999772,
+      "payout_usd": 0.00748763251124981,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2798",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2802",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2809",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_2810",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0077495592368759525,
+      "weight_lower": 0.0,
+      "weight_upper": 0.03204669020562387,
+      "payout_usd": 0.0077495592368759525,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_286",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_295",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.11995051861846077,
+      "weight_lower": 0.0,
+      "weight_upper": 0.5221444832764633,
+      "payout_usd": 0.11995051861846077,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_297",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.13413581894231277,
+      "weight_lower": 0.0,
+      "weight_upper": 0.5363297836003154,
+      "payout_usd": 0.13413581894231277,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_298",
+      "creator_id": "creator_01",
+      "creator_name": "Ms Mavy",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3074",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3460",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3461",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3487",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3515",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3546",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3552",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3557",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3564",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3573",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_3579",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_367",
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_377",
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other]->stage1..V"
+    },
+    {
+      "source_id": "src_4273",
+      "creator_id": "creator_27",
+      "creator_name": "Delta Storm",
+      "weight_point": 0.00792826938774465,
+      "weight_lower": 0.00792826938774465,
+      "weight_upper": 0.007928269387744652,
+      "payout_usd": 0.00792826938774465,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4855",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4856",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4868",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4884",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4901",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4910",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4917",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4923",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4925",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4942",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4947",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    },
+    {
+      "source_id": "src_4948",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums]->stage1..V"
+    }
+  ],
+  "latency_ms": {
+    "stage1_triage": 2.318,
+    "stage2_grouping": 0.558,
+    "stage3_shapley_total": 130.179,
+    "compose": 0.303,
+    "stageV_proof": 28.321,
+    "total": 260.66700000000003
+  },
+  "stages": {
+    "stage1_triage": {
+      "method": "trak_cosine",
+      "k": 40,
+      "metadata": {
+        "catalog_size": 5000,
+        "k": 40,
+        "calibrated": true,
+        "n_residual_passes_requested": 2,
+        "n_residual_passes_used": 0,
+        "pre_nnls_active": 6,
+        "residual_strength": 0.55,
+        "n_unique_candidates_pre_rerank": 40,
+        "n_filtered_bpm": 0,
+        "n_filtered_key": 0,
+        "n_eligible_after_filter": 5000,
+        "raw_max_similarity": 0.972564697265625,
+        "raw_min_similarity": -0.770106315612793,
+        "raw_mean_similarity": 0.0007584396516904235,
+        "use_nnls_rerank": true,
+        "nnls_shortlist_size": 80,
+        "nnls_residual_norm": 0.13831740944125212,
+        "nnls_n_active": 6,
+        "nnls_active_mass": 1.147150896405499
+      },
+      "candidates": [
+        {
+          "source_id": "src_186",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 0.42781252092211713,
+          "rank": 1
+        },
+        {
+          "source_id": "src_210",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 0.291519644727868,
+          "rank": 2
+        },
+        {
+          "source_id": "src_367",
+          "creator_id": "creator_02",
+          "creator_name": "Koretzky",
+          "score": 0.11345498212767272,
+          "rank": 3
+        },
+        {
+          "source_id": "src_377",
+          "creator_id": "creator_02",
+          "creator_name": "Koretzky",
+          "score": 0.08913396065713931,
+          "rank": 4
+        },
+        {
+          "source_id": "src_3546",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 0.07090063935317545,
+          "rank": 5
+        },
+        {
+          "source_id": "src_3074",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 0.0075867767247772494,
+          "rank": 6
+        },
+        {
+          "source_id": "src_247",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.62445919867605e-05,
+          "rank": 7
+        },
+        {
+          "source_id": "src_171",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.623668302083388e-05,
+          "rank": 8
+        },
+        {
+          "source_id": "src_161",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.622240031603724e-05,
+          "rank": 9
+        },
+        {
+          "source_id": "src_298",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.620992204872891e-05,
+          "rank": 10
+        },
+        {
+          "source_id": "src_252",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.620690252631903e-05,
+          "rank": 11
+        },
+        {
+          "source_id": "src_204",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.620597847970203e-05,
+          "rank": 12
+        },
+        {
+          "source_id": "src_248",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.620413038646802e-05,
+          "rank": 13
+        },
+        {
+          "source_id": "src_164",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.620085620554164e-05,
+          "rank": 14
+        },
+        {
+          "source_id": "src_255",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.620013588573784e-05,
+          "rank": 15
+        },
+        {
+          "source_id": "src_184",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.619601769372821e-05,
+          "rank": 16
+        },
+        {
+          "source_id": "src_264",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.619555930839851e-05,
+          "rank": 17
+        },
+        {
+          "source_id": "src_245",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.619159391149879e-05,
+          "rank": 18
+        },
+        {
+          "source_id": "src_183",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.619152115192264e-05,
+          "rank": 19
+        },
+        {
+          "source_id": "src_242",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.619149204809219e-05,
+          "rank": 20
+        },
+        {
+          "source_id": "src_157",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.618653712095693e-05,
+          "rank": 21
+        },
+        {
+          "source_id": "src_199",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.618624608265236e-05,
+          "rank": 22
+        },
+        {
+          "source_id": "src_232",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.618317562853917e-05,
+          "rank": 23
+        },
+        {
+          "source_id": "src_297",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.617869363864884e-05,
+          "rank": 24
+        },
+        {
+          "source_id": "src_268",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.617487376090139e-05,
+          "rank": 25
+        },
+        {
+          "source_id": "src_295",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.617027535568923e-05,
+          "rank": 26
+        },
+        {
+          "source_id": "src_180",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.616598254069686e-05,
+          "rank": 27
+        },
+        {
+          "source_id": "src_246",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.615767339710146e-05,
+          "rank": 28
+        },
+        {
+          "source_id": "src_253",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.615413000574335e-05,
+          "rank": 29
+        },
+        {
+          "source_id": "src_286",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.61526675382629e-05,
+          "rank": 30
+        },
+        {
+          "source_id": "src_225",
+          "creator_id": "creator_01",
+          "creator_name": "Ms Mavy",
+          "score": 9.614753071218729e-05,
+          "rank": 31
+        },
+        {
+          "source_id": "src_3557",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.642334508593194e-05,
+          "rank": 32
+        },
+        {
+          "source_id": "src_3461",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.636305650114082e-05,
+          "rank": 33
+        },
+        {
+          "source_id": "src_3573",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.6358530855504796e-05,
+          "rank": 34
+        },
+        {
+          "source_id": "src_3552",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.6339955335715786e-05,
+          "rank": 35
+        },
+        {
+          "source_id": "src_3564",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.633984619635157e-05,
+          "rank": 36
+        },
+        {
+          "source_id": "src_3515",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.632491593132727e-05,
+          "rank": 37
+        },
+        {
+          "source_id": "src_3579",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.631890599033795e-05,
+          "rank": 38
+        },
+        {
+          "source_id": "src_3487",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.6316475820494816e-05,
+          "rank": 39
+        },
+        {
+          "source_id": "src_3460",
+          "creator_id": "creator_22",
+          "creator_name": "Tundra Tine",
+          "score": 5.6306871556444094e-05,
+          "rank": 40
+        }
+      ]
+    },
+    "stage2_grouping": {
+      "method": "guda_ward",
+      "metadata": {
+        "n_clusters": 5,
+        "n_candidates": 40,
+        "v_full": 0.9461550391418224,
+        "distance_threshold": 0.6,
+        "clustering_method": "ward",
+        "max_cluster_size": 27,
+        "min_cluster_size": 1,
+        "n_active_clusters_before_sparsify": 4,
+        "n_active_clusters_after_sparsify": 1,
+        "min_cluster_weight_threshold": 0.07
+      },
+      "n_clusters": 5,
+      "clusters": [
+        {
+          "cluster_id": 1,
+          "weight": 0.0,
+          "raw_score": -0.016221395470704447,
+          "member_local_indices": [
+            4,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "member_source_ids": [
+            "src_3546",
+            "src_3557",
+            "src_3461",
+            "src_3573",
+            "src_3552",
+            "src_3564",
+            "src_3515",
+            "src_3579",
+            "src_3487",
+            "src_3460"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "weight": 1.0,
+          "raw_score": 0.5171992852901626,
+          "member_local_indices": [
+            0,
+            1,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "member_source_ids": [
+            "src_186",
+            "src_210",
+            "src_247",
+            "src_171",
+            "src_161",
+            "src_298",
+            "src_252",
+            "src_204",
+            "src_248",
+            "src_164",
+            "src_255",
+            "src_184",
+            "src_264",
+            "src_245",
+            "src_183",
+            "src_242",
+            "src_157",
+            "src_199",
+            "src_232",
+            "src_297",
+            "src_268",
+            "src_295",
+            "src_180",
+            "src_246",
+            "src_253",
+            "src_286",
+            "src_225"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "weight": 0.0,
+          "raw_score": 0.005260652824589207,
+          "member_local_indices": [
+            2
+          ],
+          "member_source_ids": [
+            "src_367"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "weight": 0.0,
+          "raw_score": 0.0029297849671205967,
+          "member_local_indices": [
+            5
+          ],
+          "member_source_ids": [
+            "src_3074"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "weight": 0.0,
+          "raw_score": 0.002430595904528543,
+          "member_local_indices": [
+            3
+          ],
+          "member_source_ids": [
+            "src_377"
+          ]
+        }
+      ]
+    },
+    "stage3_shapley": {
+      "per_cluster": [
+        {
+          "cluster_id": 1,
+          "method": "shapley_exact",
+          "n": 10,
+          "metadata": {
+            "n_evaluations": 10240,
+            "n": 10,
+            "v_full": 0.3289560107143254,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_3546",
+              "shapley_value": 0.03286331162271551,
+              "weight_in_cluster": 0.09990184265474619,
+              "interval_lower": 0.09990184265474619,
+              "interval_upper": 0.09990184265474619
+            },
+            {
+              "source_id": "src_3557",
+              "shapley_value": 0.03318726782451284,
+              "weight_in_cluster": 0.10088664363495586,
+              "interval_lower": 0.10088664363495586,
+              "interval_upper": 0.10088664363495586
+            },
+            {
+              "source_id": "src_3461",
+              "shapley_value": 0.03296915079417094,
+              "weight_in_cluster": 0.10022358528296448,
+              "interval_lower": 0.10022358528296448,
+              "interval_upper": 0.10022358528296448
+            },
+            {
+              "source_id": "src_3573",
+              "shapley_value": 0.03295281104611766,
+              "weight_in_cluster": 0.1001739137538813,
+              "interval_lower": 0.1001739137538813,
+              "interval_upper": 0.1001739137538813
+            },
+            {
+              "source_id": "src_3552",
+              "shapley_value": 0.03288661177520088,
+              "weight_in_cluster": 0.09997267325739964,
+              "interval_lower": 0.09997267325739964,
+              "interval_upper": 0.09997267325739964
+            },
+            {
+              "source_id": "src_3564",
+              "shapley_value": 0.032885871530763264,
+              "weight_in_cluster": 0.09997042297343003,
+              "interval_lower": 0.09997042297343003,
+              "interval_upper": 0.09997042297343003
+            },
+            {
+              "source_id": "src_3515",
+              "shapley_value": 0.032831978667669334,
+              "weight_in_cluster": 0.09980659297385987,
+              "interval_lower": 0.09980659297385987,
+              "interval_upper": 0.09980659297385987
+            },
+            {
+              "source_id": "src_3579",
+              "shapley_value": 0.03281009384249601,
+              "weight_in_cluster": 0.09974006485319778,
+              "interval_lower": 0.09974006485319778,
+              "interval_upper": 0.09974006485319778
+            },
+            {
+              "source_id": "src_3487",
+              "shapley_value": 0.03280128652048748,
+              "weight_in_cluster": 0.099713291297702,
+              "interval_lower": 0.099713291297702,
+              "interval_upper": 0.099713291297702
+            },
+            {
+              "source_id": "src_3460",
+              "shapley_value": 0.03276762709019121,
+              "weight_in_cluster": 0.09961096931786287,
+              "interval_lower": 0.09961096931786287,
+              "interval_upper": 0.09961096931786287
+            }
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "method": "shapley_monte_carlo",
+          "n": 27,
+          "metadata": {
+            "n_permutations": 392,
+            "n_permutations_requested": 400,
+            "n_evaluations": 10584,
+            "n": 27,
+            "hoeffding_epsilon": 0.1371889701885601,
+            "confidence": 0.95,
+            "temperature": 8.0,
+            "antithetic": true,
+            "n_strata": 14,
+            "pairs_per_stratum": 14
+          },
+          "members": [
+            {
+              "source_id": "src_186",
+              "shapley_value": 0.03148236788211646,
+              "weight_in_cluster": 0.03331897320189214,
+              "interval_lower": 0.0,
+              "interval_upper": 0.17851121663236055
+            },
+            {
+              "source_id": "src_210",
+              "shapley_value": 0.03615979765072827,
+              "weight_in_cluster": 0.03826927292831895,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18346151635878735
+            },
+            {
+              "source_id": "src_247",
+              "shapley_value": 0.03630369162575508,
+              "weight_in_cluster": 0.038421561330378926,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18361380476084732
+            },
+            {
+              "source_id": "src_171",
+              "shapley_value": 0.04593440500043154,
+              "weight_in_cluster": 0.04861410726744067,
+              "interval_lower": 0.0,
+              "interval_upper": 0.19380635069790908
+            },
+            {
+              "source_id": "src_161",
+              "shapley_value": 0.03142205814018092,
+              "weight_in_cluster": 0.03325514513524583,
+              "interval_lower": 0.0,
+              "interval_upper": 0.17844738856571424
+            },
+            {
+              "source_id": "src_298",
+              "shapley_value": 0.0362039491844447,
+              "weight_in_cluster": 0.038316000155896895,
+              "interval_lower": 0.0,
+              "interval_upper": 0.1835082435863653
+            },
+            {
+              "source_id": "src_252",
+              "shapley_value": 0.041021112400957384,
+              "weight_in_cluster": 0.04341418504215191,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18860642847262032
+            },
+            {
+              "source_id": "src_204",
+              "shapley_value": 0.03861054134947061,
+              "weight_in_cluster": 0.04086298709647994,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18605523052694833
+            },
+            {
+              "source_id": "src_248",
+              "shapley_value": 0.03136409443533965,
+              "weight_in_cluster": 0.03319379996783274,
+              "interval_lower": 0.0,
+              "interval_upper": 0.17838604339830116
+            },
+            {
+              "source_id": "src_164",
+              "shapley_value": 0.03618102920829475,
+              "weight_in_cluster": 0.03829174308368467,
+              "interval_lower": 0.0,
+              "interval_upper": 0.1834839865141531
+            },
+            {
+              "source_id": "src_255",
+              "shapley_value": 0.033768131908489214,
+              "weight_in_cluster": 0.03573808318198436,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18093032661245279
+            },
+            {
+              "source_id": "src_184",
+              "shapley_value": 0.024109770321495715,
+              "weight_in_cluster": 0.025516276102662893,
+              "interval_lower": 0.0,
+              "interval_upper": 0.1707085195331313
+            },
+            {
+              "source_id": "src_264",
+              "shapley_value": 0.0337576113387911,
+              "weight_in_cluster": 0.03572694886765474,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18091919229812314
+            },
+            {
+              "source_id": "src_245",
+              "shapley_value": 0.05303097914779607,
+              "weight_in_cluster": 0.05612467841401554,
+              "interval_lower": 0.0,
+              "interval_upper": 0.20131692184448396
+            },
+            {
+              "source_id": "src_183",
+              "shapley_value": 0.019281860902833885,
+              "weight_in_cluster": 0.02040671810677488,
+              "interval_lower": 0.0,
+              "interval_upper": 0.1655989615372433
+            },
+            {
+              "source_id": "src_242",
+              "shapley_value": 0.033738922842595755,
+              "weight_in_cluster": 0.035707170129719655,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18089941356018807
+            },
+            {
+              "source_id": "src_157",
+              "shapley_value": 0.03614379241538241,
+              "weight_in_cluster": 0.038252333986191864,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18344457741666026
+            },
+            {
+              "source_id": "src_199",
+              "shapley_value": 0.03614089284132833,
+              "weight_in_cluster": 0.03824926525798925,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18344150868845766
+            },
+            {
+              "source_id": "src_232",
+              "shapley_value": 0.021667873760348063,
+              "weight_in_cluster": 0.022931925192740118,
+              "interval_lower": 0.0,
+              "interval_upper": 0.16812416862320853
+            },
+            {
+              "source_id": "src_297",
+              "shapley_value": 0.04575393089685663,
+              "weight_in_cluster": 0.04842310474046544,
+              "interval_lower": 0.0,
+              "interval_upper": 0.19361534817093384
+            },
+            {
+              "source_id": "src_268",
+              "shapley_value": 0.02406064131122017,
+              "weight_in_cluster": 0.0254642810245628,
+              "interval_lower": 0.0,
+              "interval_upper": 0.1706565244550312
+            },
+            {
+              "source_id": "src_295",
+              "shapley_value": 0.040915303482595186,
+              "weight_in_cluster": 0.043302203486995955,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18849444691746436
+            },
+            {
+              "source_id": "src_180",
+              "shapley_value": 0.036076740917512305,
+              "weight_in_cluster": 0.038181370865849516,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18337361429631793
+            },
+            {
+              "source_id": "src_246",
+              "shapley_value": 0.04568544582043612,
+              "weight_in_cluster": 0.04835062441006181,
+              "interval_lower": 0.0,
+              "interval_upper": 0.1935428678405302
+            },
+            {
+              "source_id": "src_253",
+              "shapley_value": 0.02881724825772761,
+              "weight_in_cluster": 0.030498376934249536,
+              "interval_lower": 0.0,
+              "interval_upper": 0.17569062036471794
+            },
+            {
+              "source_id": "src_286",
+              "shapley_value": 0.03122869060683519,
+              "weight_in_cluster": 0.03305049700694153,
+              "interval_lower": 0.0,
+              "interval_upper": 0.17824274043740995
+            },
+            {
+              "source_id": "src_225",
+              "shapley_value": 0.036017210022161954,
+              "weight_in_cluster": 0.03811836708181745,
+              "interval_lower": 0.0,
+              "interval_upper": 0.18331061051228587
+            }
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_367",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_3074",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_377",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "verification": {
+    "overall_status": "VIOLATED",
+    "axioms": [
+      {
+        "name": "efficiency",
+        "status": "PROVEN",
+        "detail": "sum(weights) = 1.000000 \u2248 1.000000 (tol=0.001)"
+      },
+      {
+        "name": "symmetry",
+        "status": "VIOLATED",
+        "detail": "233 equivalent pair(s) have unequal weights: [(9, 12, 0.13466491100514505), (9, 19, 0.11319369685180604), (9, 24, 0.15546978539041856)]"
+      },
+      {
+        "name": "dummy",
+        "status": "PROVEN",
+        "detail": "27 dummy source(s) all have zero weight (within tol=0.001)"
+      }
+    ],
+    "smt_lib_file": "/Users/gauravgupta/Desktop/cascade_v/outputs/proofs/output_006.smt2",
+    "smt_lib_hash": "bf61f4ed94137111c3ac8354c9dcc0dbb17c325aadc3b173daaecfd01de8e999"
+  },
+  "pipeline_metadata": {
+    "catalog_size": 5000,
+    "candidates_from_triage": 80,
+    "n_clusters": 5,
+    "validations_passed": true,
+    "validation_details": [
+      {
+        "stage": "stage1_triage",
+        "invariants": {
+          "scores_monotone_decreasing": true,
+          "shapes_aligned": true,
+          "indices_unique": true,
+          "top_score_nontrivial": true
+        },
+        "passed": true,
+        "context": {
+          "k": 40,
+          "catalog_size": 5000
+        }
+      },
+      {
+        "stage": "stage2_grouping",
+        "invariants": {
+          "weights_sum_to_one": true,
+          "partition_complete": true,
+          "cluster_ids_consistent": true,
+          "weights_nonneg": true,
+          "members_unique": true
+        },
+        "passed": true,
+        "context": {
+          "n_candidates": 40
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_1",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 1,
+          "members": [
+            4,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_2",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 2,
+          "members": [
+            0,
+            1,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_3",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 3,
+          "members": [
+            2
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_4",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 4,
+          "members": [
+            5
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_5",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 5,
+          "members": [
+            3
+          ]
+        }
+      }
+    ]
+  },
+  "currencies": {
+    "receipt_id": "output_006",
+    "dials": {
+      "alpha": 0.85,
+      "beta": 0.6,
+      "gamma": 0.3
+    },
+    "qws": {
+      "quantile_active": 0.5,
+      "output_quality_score": 0.5984969599177067,
+      "weights_by_quantile": {
+        "0.5": [
+          0.13466491100514505,
+          0.11319369685180602,
+          0.15546978539041856,
+          0.13393504271104867,
+          0.0077603632307472175,
+          0.12026071635749018,
+          0.0073849125893784675,
+          0.007904408483968174,
+          0.009304882945596692,
+          0.00818541421524375,
+          0.00915535603580379,
+          0.007751670604708346,
+          0.0077770408820011854,
+          0.007487632511249809,
+          0.007749559236875952,
+          0.11995051861846076,
+          0.13413581894231277,
+          0.00792826938774465
+        ],
+        "0.75": [
+          0.1461484777600476,
+          0.11262790102732044,
+          0.18129324458470836,
+          0.14496192729794544,
+          0.0020217887546146954,
+          0.12333839819346909,
+          0.0018768551042194683,
+          0.002078340806103791,
+          0.0026544775700397083,
+          0.002190149144663013,
+          0.0025907502384732413,
+          0.002018392703092024,
+          0.0020283097366819674,
+          0.0019161499305495632,
+          0.0020175681172265223,
+          0.1228615016906863,
+          0.1452880086585853,
+          0.002087758681573714
+        ],
+        "0.9": [
+          0.14910537539417437,
+          0.10907251660491872,
+          0.19310703286561864,
+          0.14765388903748192,
+          0.0008762400046144845,
+          0.12163487402513842,
+          0.0008014142122757394,
+          0.0009057331484415946,
+          0.0012148286258662677,
+          0.0009645140835996267,
+          0.0011799152143712132,
+          0.0008744740894808809,
+          0.0008796325173346213,
+          0.0008215907296828349,
+          0.000874045402133198,
+          0.1210707208191648,
+          0.14805254271828136,
+          0.0009106605074211796
+        ],
+        "0.99": [
+          0.15024521582174596,
+          0.10652336777332656,
+          0.1996806222277965,
+          0.14863716067747468,
+          0.0005282547440951362,
+          0.12009417470973113,
+          0.00047885140420314955,
+          0.0005478457667446319,
+          0.0007567014044320721,
+          0.0005870802252678895,
+          0.0007328142445817705,
+          0.0005270837922061478,
+          0.0005305049303401878,
+          0.0004921291665401083,
+          0.0005267995716923173,
+          0.11948160895928245,
+          0.14907865950087265,
+          0.0005511250796665098
+        ]
+      },
+      "weights_final": [
+        0.13466491100514505,
+        0.11319369685180602,
+        0.15546978539041856,
+        0.13393504271104867,
+        0.0077603632307472175,
+        0.12026071635749018,
+        0.0073849125893784675,
+        0.007904408483968174,
+        0.009304882945596692,
+        0.00818541421524375,
+        0.00915535603580379,
+        0.007751670604708346,
+        0.0077770408820011854,
+        0.007487632511249809,
+        0.007749559236875952,
+        0.11995051861846076,
+        0.13413581894231277,
+        0.00792826938774465
+      ]
+    },
+    "per_contributor": [
+      {
+        "contributor_id": "src_171",
+        "monetary": {
+          "weight_qws": 0.13466491100514505,
+          "weight_with_floor": 0.13466491100514505,
+          "payout_usd": 0.13466491100514505,
+          "interval_usd": [
+            0.0,
+            0.536858875659161
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.10302116882530925
+        },
+        "opportunity": {
+          "priority_adjustment": 0.030316320582984675,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_204",
+        "monetary": {
+          "weight_qws": 0.11319369685180602,
+          "weight_with_floor": 0.11319369685180602,
+          "payout_usd": 0.11319369685180602,
+          "interval_usd": [
+            0.0,
+            0.5153876615052554
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.09013844033330584
+        },
+        "opportunity": {
+          "priority_adjustment": 0.025482632232248125,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_245",
+        "monetary": {
+          "weight_qws": 0.15546978539041856,
+          "weight_with_floor": 0.15546978539041856,
+          "payout_usd": 0.15546978539041856,
+          "interval_usd": [
+            0.0,
+            0.557663750044834
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.11550409345647336
+        },
+        "opportunity": {
+          "priority_adjustment": 0.03499999977487587,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_246",
+        "monetary": {
+          "weight_qws": 0.13393504271104867,
+          "weight_with_floor": 0.13393504271104867,
+          "payout_usd": 0.13393504271104867,
+          "interval_usd": [
+            0.0,
+            0.5361290073650483
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.10258324784885142
+        },
+        "opportunity": {
+          "priority_adjustment": 0.030152009620150886,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2509",
+        "monetary": {
+          "weight_qws": 0.0077603632307472175,
+          "weight_with_floor": 0.0077603632307472175,
+          "payout_usd": 0.0077603632307472175,
+          "interval_usd": [
+            0.007760363229747216,
+            0.007760363229747217
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.026878440160670553
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0017470450007184921,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_252",
+        "monetary": {
+          "weight_qws": 0.12026071635749018,
+          "weight_with_floor": 0.12026071635749018,
+          "payout_usd": 0.12026071635749018,
+          "interval_usd": [
+            0.0,
+            0.5224546810111482
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.09437865203671633
+        },
+        "opportunity": {
+          "priority_adjustment": 0.027073588831865537,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2666",
+        "monetary": {
+          "weight_qws": 0.0073849125893784675,
+          "weight_with_floor": 0.0073849125893784675,
+          "payout_usd": 0.0073849125893784675,
+          "interval_usd": [
+            0.0,
+            0.031682043553836275
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.026653169775849302
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0016625220026942529,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2710",
+        "monetary": {
+          "weight_qws": 0.007904408483968174,
+          "weight_with_floor": 0.007904408483968174,
+          "payout_usd": 0.007904408483968174,
+          "interval_usd": [
+            0.0,
+            0.032201539448642215
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.026964867312603127
+        },
+        "opportunity": {
+          "priority_adjustment": 0.001779473062657633,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2716",
+        "monetary": {
+          "weight_qws": 0.009304882945596692,
+          "weight_with_floor": 0.009304882945596692,
+          "payout_usd": 0.009304882945596692,
+          "interval_usd": [
+            0.0,
+            0.03360201391073338
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.027805151989580237
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0020947536537938858,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2719",
+        "monetary": {
+          "weight_qws": 0.00818541421524375,
+          "weight_with_floor": 0.00818541421524375,
+          "payout_usd": 0.00818541421524375,
+          "interval_usd": [
+            0.0,
+            0.0324825451800233
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.027133470751368474
+        },
+        "opportunity": {
+          "priority_adjustment": 0.001842734232708686,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2722",
+        "monetary": {
+          "weight_qws": 0.00915535603580379,
+          "weight_with_floor": 0.00915535603580379,
+          "payout_usd": 0.00915535603580379,
+          "interval_usd": [
+            0.0,
+            0.03345248700089782
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.0277154358437045
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0020610915387022162,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2727",
+        "monetary": {
+          "weight_qws": 0.007751670604708346,
+          "weight_with_floor": 0.007751670604708346,
+          "payout_usd": 0.007751670604708346,
+          "interval_usd": [
+            0.0,
+            0.03204880156932182
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02687322458504723
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0017450880808665768,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2776",
+        "monetary": {
+          "weight_qws": 0.0077770408820011854,
+          "weight_with_floor": 0.0077770408820011854,
+          "payout_usd": 0.0077770408820011854,
+          "interval_usd": [
+            0.0,
+            0.03207417184662488
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.026888446751422934
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0017507995424043154,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2791",
+        "monetary": {
+          "weight_qws": 0.007487632511249809,
+          "weight_with_floor": 0.007487632511249809,
+          "payout_usd": 0.007487632511249809,
+          "interval_usd": [
+            0.0,
+            0.03178476347575274
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.026714801728972108
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0016856467354733195,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2810",
+        "monetary": {
+          "weight_qws": 0.007749559236875952,
+          "weight_with_floor": 0.007749559236875952,
+          "payout_usd": 0.007749559236875952,
+          "interval_usd": [
+            0.0,
+            0.032046690201488565
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": true,
+          "feature_probability": 0.026871957764347795
+        },
+        "opportunity": {
+          "priority_adjustment": 0.001744612761025664,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_295",
+        "monetary": {
+          "weight_qws": 0.11995051861846076,
+          "weight_with_floor": 0.11995051861846076,
+          "payout_usd": 0.11995051861846076,
+          "interval_usd": [
+            0.0,
+            0.5221444832721103
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.09419253339329868
+        },
+        "opportunity": {
+          "priority_adjustment": 0.027003755836541507,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_297",
+        "monetary": {
+          "weight_qws": 0.13413581894231277,
+          "weight_with_floor": 0.13413581894231277,
+          "payout_usd": 0.13413581894231277,
+          "interval_usd": [
+            0.0,
+            0.5363297835963168
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.1027037135876099
+        },
+        "opportunity": {
+          "priority_adjustment": 0.030197209194019192,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_4273",
+        "monetary": {
+          "weight_qws": 0.00792826938774465,
+          "weight_with_floor": 0.00792826938774465,
+          "payout_usd": 0.00792826938774465,
+          "interval_usd": [
+            0.007928269386744648,
+            0.00792826938674465
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.026979183854869013
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0017848447277995626,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      }
+    ],
+    "dignity_proof": {
+      "currency_1_monetary": "PROVEN",
+      "currency_1_floor_honored": "PROVEN",
+      "currency_1_efficiency": "PROVEN",
+      "currency_2_every_creator_recognized": "PROVEN",
+      "currency_3_opportunity_nonneg": "PROVEN",
+      "every_creator_received_all_three": "PROVEN"
+    }
+  }
+}

@@ -1,0 +1,2763 @@
+{
+  "receipt_id": "output_027",
+  "created_at_utc": "2026-04-29T21:57:37.508767+00:00",
+  "total_payout_usd": 1.0,
+  "method": "CASCADE-V",
+  "version": "0.2.0",
+  "per_creator": [
+    {
+      "creator_id": "creator_03",
+      "creator_name": "Producer Noir",
+      "weight_point": 0.326735493405754,
+      "weight_lower": 0.3267354934057539,
+      "weight_upper": 0.326735493405754,
+      "payout_usd": 0.326735493405754,
+      "n_sources": 3
+    },
+    {
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.22822783342306768,
+      "weight_lower": 0.22822783342306768,
+      "weight_upper": 0.22822783342306768,
+      "payout_usd": 0.22822783342306768,
+      "n_sources": 9
+    },
+    {
+      "creator_id": "creator_30",
+      "creator_name": "Lyric Dynamo",
+      "weight_point": 0.10459621444261964,
+      "weight_lower": 0.10459621444261964,
+      "weight_upper": 0.10459621444261964,
+      "payout_usd": 0.10459621444261964,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_28",
+      "creator_name": "Aether Bloom",
+      "weight_point": 0.09928411786054596,
+      "weight_lower": 0.09928411786054596,
+      "weight_upper": 0.09928411786054596,
+      "payout_usd": 0.09928411786054596,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_23",
+      "creator_name": "Polaris Hum",
+      "weight_point": 0.09361845155450339,
+      "weight_lower": 0.09361845155450339,
+      "weight_upper": 0.09361845155450339,
+      "payout_usd": 0.09361845155450339,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_20",
+      "creator_name": "Kira Kiln",
+      "weight_point": 0.09228734331876404,
+      "weight_lower": 0.09228734331876404,
+      "weight_upper": 0.09228734331876404,
+      "payout_usd": 0.09228734331876404,
+      "n_sources": 3
+    },
+    {
+      "creator_id": "creator_13",
+      "creator_name": "Stella Drum",
+      "weight_point": 0.024894824982510947,
+      "weight_lower": 0.024894824982510947,
+      "weight_upper": 0.024894824982510947,
+      "payout_usd": 0.024894824982510947,
+      "n_sources": 2
+    },
+    {
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.021832060237682215,
+      "weight_lower": 0.021832060237682215,
+      "weight_upper": 0.021832060237682215,
+      "payout_usd": 0.021832060237682215,
+      "n_sources": 1
+    },
+    {
+      "creator_id": "creator_07",
+      "creator_name": "Beatsmith",
+      "weight_point": 0.005306842545540719,
+      "weight_lower": 0.005306842545540719,
+      "weight_upper": 0.005306842545540719,
+      "payout_usd": 0.005306842545540719,
+      "n_sources": 3
+    },
+    {
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0032168182290115777,
+      "weight_lower": 0.0032168182290115773,
+      "weight_upper": 0.0032168182290115777,
+      "payout_usd": 0.0032168182290115777,
+      "n_sources": 4
+    },
+    {
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 13
+    },
+    {
+      "creator_id": "creator_14",
+      "creator_name": "Crate Mosaic",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 2
+    },
+    {
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 40
+    },
+    {
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 2
+    },
+    {
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "n_sources": 4
+    }
+  ],
+  "per_source": [
+    {
+      "source_id": "src_060",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0032168182290115777,
+      "weight_lower": 0.0032168182290115773,
+      "weight_upper": 0.0032168182290115777,
+      "payout_usd": 0.0032168182290115777,
+      "stage_path": "demucs[guitar]->stage1..V"
+    },
+    {
+      "source_id": "src_086",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_087",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,vocals,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_116",
+      "creator_id": "creator_00",
+      "creator_name": "DJ Atlas",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1199",
+      "creator_id": "creator_07",
+      "creator_name": "Beatsmith",
+      "weight_point": 0.002510071337232602,
+      "weight_lower": 0.002510071337232602,
+      "weight_upper": 0.002510071337232602,
+      "payout_usd": 0.002510071337232602,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1228",
+      "creator_id": "creator_07",
+      "creator_name": "Beatsmith",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1250",
+      "creator_id": "creator_07",
+      "creator_name": "Beatsmith",
+      "weight_point": 0.002796771208308117,
+      "weight_lower": 0.002796771208308117,
+      "weight_upper": 0.0027967712083081173,
+      "payout_usd": 0.002796771208308117,
+      "stage_path": "demucs[guitar]->stage1..V"
+    },
+    {
+      "source_id": "src_1262",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1269",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[vocals]->stage1..V"
+    },
+    {
+      "source_id": "src_1270",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1277",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1283",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1312",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[vocals]->stage1..V"
+    },
+    {
+      "source_id": "src_1317",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1336",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1342",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1349",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1385",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1386",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_1389",
+      "creator_id": "creator_08",
+      "creator_name": "Felix Verde",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2155",
+      "creator_id": "creator_13",
+      "creator_name": "Stella Drum",
+      "weight_point": 0.011426805858715765,
+      "weight_lower": 0.011426805858715765,
+      "weight_upper": 0.011426805858715765,
+      "payout_usd": 0.011426805858715765,
+      "stage_path": "demucs[drums,other,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2156",
+      "creator_id": "creator_13",
+      "creator_name": "Stella Drum",
+      "weight_point": 0.013468019123795182,
+      "weight_lower": 0.013468019123795182,
+      "weight_upper": 0.013468019123795182,
+      "payout_usd": 0.013468019123795182,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2256",
+      "creator_id": "creator_14",
+      "creator_name": "Crate Mosaic",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2340",
+      "creator_id": "creator_14",
+      "creator_name": "Crate Mosaic",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[vocals,guitar]->stage1..V"
+    },
+    {
+      "source_id": "src_2669",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2705",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.1352132883541882,
+      "weight_lower": 0.1352132883541882,
+      "weight_upper": 0.1352132883541882,
+      "payout_usd": 0.1352132883541882,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2749",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.09301454506887949,
+      "weight_lower": 0.09301454506887949,
+      "weight_upper": 0.09301454506887949,
+      "payout_usd": 0.09301454506887949,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_2767",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[other,guitar]->stage1..V"
+    },
+    {
+      "source_id": "src_2777",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2792",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2799",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2804",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2812",
+      "creator_id": "creator_17",
+      "creator_name": "Onyx Channel",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2972",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_2975",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_2978",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_2981",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_2984",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_2985",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2989",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_2997",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3005",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3013",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3016",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3019",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3021",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3028",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3033",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3036",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3041",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3047",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3049",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3063",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3065",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3077",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3080",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3084",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3085",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3086",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3087",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3089",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3091",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3093",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3096",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3098",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3099",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3100",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,guitar,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3104",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3108",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3112",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3113",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3118",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3122",
+      "creator_id": "creator_19",
+      "creator_name": "Vega Vault",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3188",
+      "creator_id": "creator_20",
+      "creator_name": "Kira Kiln",
+      "weight_point": 0.008220361602460608,
+      "weight_lower": 0.008220361602460608,
+      "weight_upper": 0.00822036160246061,
+      "payout_usd": 0.008220361602460608,
+      "stage_path": "demucs[guitar]->stage1..V"
+    },
+    {
+      "source_id": "src_3199",
+      "creator_id": "creator_20",
+      "creator_name": "Kira Kiln",
+      "weight_point": 0.07288691836023922,
+      "weight_lower": 0.07288691836023922,
+      "weight_upper": 0.07288691836023922,
+      "payout_usd": 0.07288691836023922,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3237",
+      "creator_id": "creator_20",
+      "creator_name": "Kira Kiln",
+      "weight_point": 0.011180063356064205,
+      "weight_lower": 0.011180063356064203,
+      "weight_upper": 0.011180063356064205,
+      "payout_usd": 0.011180063356064205,
+      "stage_path": "demucs[guitar]->stage1..V"
+    },
+    {
+      "source_id": "src_3441",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[drums,other,vocals,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_3504",
+      "creator_id": "creator_22",
+      "creator_name": "Tundra Tine",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[vocals]->stage1..V"
+    },
+    {
+      "source_id": "src_356",
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_3683",
+      "creator_id": "creator_23",
+      "creator_name": "Polaris Hum",
+      "weight_point": 0.09361845155450339,
+      "weight_lower": 0.09361845155450339,
+      "weight_upper": 0.09361845155450339,
+      "payout_usd": 0.09361845155450339,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_371",
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_436",
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_4395",
+      "creator_id": "creator_28",
+      "creator_name": "Aether Bloom",
+      "weight_point": 0.09928411786054596,
+      "weight_lower": 0.09928411786054596,
+      "weight_upper": 0.09928411786054596,
+      "payout_usd": 0.09928411786054596,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_452",
+      "creator_id": "creator_02",
+      "creator_name": "Koretzky",
+      "weight_point": 0.0,
+      "weight_lower": 0.0,
+      "weight_upper": 0.0,
+      "payout_usd": 0.0,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_473",
+      "creator_id": "creator_03",
+      "creator_name": "Producer Noir",
+      "weight_point": 0.07732506060623866,
+      "weight_lower": 0.07732506060623866,
+      "weight_upper": 0.07732506060623866,
+      "payout_usd": 0.07732506060623866,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_4751",
+      "creator_id": "creator_30",
+      "creator_name": "Lyric Dynamo",
+      "weight_point": 0.10459621444261964,
+      "weight_lower": 0.10459621444261964,
+      "weight_upper": 0.10459621444261964,
+      "payout_usd": 0.10459621444261964,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_4970",
+      "creator_id": "creator_31",
+      "creator_name": "Sable Forge",
+      "weight_point": 0.021832060237682215,
+      "weight_lower": 0.021832060237682215,
+      "weight_upper": 0.021832060237682215,
+      "payout_usd": 0.021832060237682215,
+      "stage_path": "demucs[drums,other,vocals,piano]->stage1..V"
+    },
+    {
+      "source_id": "src_518",
+      "creator_id": "creator_03",
+      "creator_name": "Producer Noir",
+      "weight_point": 0.17723008712660215,
+      "weight_lower": 0.17723008712660213,
+      "weight_upper": 0.17723008712660215,
+      "payout_usd": 0.17723008712660215,
+      "stage_path": "demucs[bass]->stage1..V"
+    },
+    {
+      "source_id": "src_562",
+      "creator_id": "creator_03",
+      "creator_name": "Producer Noir",
+      "weight_point": 0.07218034567291316,
+      "weight_lower": 0.07218034567291315,
+      "weight_upper": 0.07218034567291316,
+      "payout_usd": 0.07218034567291316,
+      "stage_path": "demucs[bass]->stage1..V"
+    }
+  ],
+  "latency_ms": {
+    "stage1_triage": 3.996,
+    "stage2_grouping": 1.253,
+    "stage3_shapley_total": 71.517,
+    "compose": 0.283,
+    "stageV_proof": 17.091,
+    "total": 928.935
+  },
+  "stages": {
+    "stage1_triage": {
+      "method": "trak_cosine",
+      "k": 40,
+      "metadata": {
+        "catalog_size": 5000,
+        "k": 40,
+        "calibrated": true,
+        "n_residual_passes_requested": 2,
+        "n_residual_passes_used": 2,
+        "pre_nnls_active": 4,
+        "residual_strength": 0.55,
+        "n_unique_candidates_pre_rerank": 96,
+        "n_filtered_bpm": 0,
+        "n_filtered_key": 0,
+        "n_eligible_after_filter": 5000,
+        "raw_max_similarity": 0.915585994720459,
+        "raw_min_similarity": -0.4752658009529114,
+        "raw_mean_similarity": 0.01853005401790142,
+        "use_nnls_rerank": true,
+        "nnls_shortlist_size": 96,
+        "nnls_residual_norm": 0.09558105451378628,
+        "nnls_n_active": 12,
+        "nnls_active_mass": 1.4747989526858674
+      },
+      "candidates": [
+        {
+          "source_id": "src_3112",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 0.22425748847214808,
+          "rank": 1
+        },
+        {
+          "source_id": "src_2749",
+          "creator_id": "creator_17",
+          "creator_name": "Onyx Channel",
+          "score": 0.17942503609948282,
+          "rank": 2
+        },
+        {
+          "source_id": "src_3085",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 0.1357983746078905,
+          "rank": 3
+        },
+        {
+          "source_id": "src_4395",
+          "creator_id": "creator_28",
+          "creator_name": "Aether Bloom",
+          "score": 0.13444407050895912,
+          "rank": 4
+        },
+        {
+          "source_id": "src_3683",
+          "creator_id": "creator_23",
+          "creator_name": "Polaris Hum",
+          "score": 0.10823916612106033,
+          "rank": 5
+        },
+        {
+          "source_id": "src_473",
+          "creator_id": "creator_03",
+          "creator_name": "Producer Noir",
+          "score": 0.07329885646460563,
+          "rank": 6
+        },
+        {
+          "source_id": "src_562",
+          "creator_id": "creator_03",
+          "creator_name": "Producer Noir",
+          "score": 0.06520295286386661,
+          "rank": 7
+        },
+        {
+          "source_id": "src_3122",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 0.038148486457946745,
+          "rank": 8
+        },
+        {
+          "source_id": "src_3199",
+          "creator_id": "creator_20",
+          "creator_name": "Kira Kiln",
+          "score": 0.025334373016603566,
+          "rank": 9
+        },
+        {
+          "source_id": "src_4751",
+          "creator_id": "creator_30",
+          "creator_name": "Lyric Dynamo",
+          "score": 0.009318075833644092,
+          "rank": 10
+        },
+        {
+          "source_id": "src_452",
+          "creator_id": "creator_02",
+          "creator_name": "Koretzky",
+          "score": 0.0067122440952096666,
+          "rank": 11
+        },
+        {
+          "source_id": "src_518",
+          "creator_id": "creator_03",
+          "creator_name": "Producer Noir",
+          "score": 0.00047998468643703187,
+          "rank": 12
+        },
+        {
+          "source_id": "src_3016",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.938168321037665e-05,
+          "rank": 13
+        },
+        {
+          "source_id": "src_3084",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.936359517974779e-05,
+          "rank": 14
+        },
+        {
+          "source_id": "src_3087",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.921862172428519e-05,
+          "rank": 15
+        },
+        {
+          "source_id": "src_2972",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.874633931554854e-05,
+          "rank": 16
+        },
+        {
+          "source_id": "src_2984",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.874056948116049e-05,
+          "rank": 17
+        },
+        {
+          "source_id": "src_2997",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.777236507739872e-05,
+          "rank": 18
+        },
+        {
+          "source_id": "src_3077",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.763741061557084e-05,
+          "rank": 19
+        },
+        {
+          "source_id": "src_3118",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.721313497517258e-05,
+          "rank": 20
+        },
+        {
+          "source_id": "src_2981",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.721142512513325e-05,
+          "rank": 21
+        },
+        {
+          "source_id": "src_3099",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720938785700127e-05,
+          "rank": 22
+        },
+        {
+          "source_id": "src_3047",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720826008357108e-05,
+          "rank": 23
+        },
+        {
+          "source_id": "src_3080",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720753248780966e-05,
+          "rank": 24
+        },
+        {
+          "source_id": "src_2975",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720749610802159e-05,
+          "rank": 25
+        },
+        {
+          "source_id": "src_3049",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720571349840611e-05,
+          "rank": 26
+        },
+        {
+          "source_id": "src_3108",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720322512090206e-05,
+          "rank": 27
+        },
+        {
+          "source_id": "src_3036",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720294135855511e-05,
+          "rank": 28
+        },
+        {
+          "source_id": "src_3033",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720281039131805e-05,
+          "rank": 29
+        },
+        {
+          "source_id": "src_3104",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720238110981882e-05,
+          "rank": 30
+        },
+        {
+          "source_id": "src_3089",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.720152254682034e-05,
+          "rank": 31
+        },
+        {
+          "source_id": "src_3021",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.72014497872442e-05,
+          "rank": 32
+        },
+        {
+          "source_id": "src_3091",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.719794277567416e-05,
+          "rank": 33
+        },
+        {
+          "source_id": "src_3113",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.719728793948889e-05,
+          "rank": 34
+        },
+        {
+          "source_id": "src_3096",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.719547622604296e-05,
+          "rank": 35
+        },
+        {
+          "source_id": "src_2978",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.719363540876657e-05,
+          "rank": 36
+        },
+        {
+          "source_id": "src_3028",
+          "creator_id": "creator_19",
+          "creator_name": "Vega Vault",
+          "score": 8.585501927882433e-05,
+          "rank": 37
+        },
+        {
+          "source_id": "src_436",
+          "creator_id": "creator_02",
+          "creator_name": "Koretzky",
+          "score": 8.004225674085319e-05,
+          "rank": 38
+        },
+        {
+          "source_id": "src_356",
+          "creator_id": "creator_02",
+          "creator_name": "Koretzky",
+          "score": 7.947096310090274e-05,
+          "rank": 39
+        },
+        {
+          "source_id": "src_371",
+          "creator_id": "creator_02",
+          "creator_name": "Koretzky",
+          "score": 7.943576929392293e-05,
+          "rank": 40
+        }
+      ]
+    },
+    "stage2_grouping": {
+      "method": "guda_ward",
+      "metadata": {
+        "n_clusters": 10,
+        "n_candidates": 40,
+        "v_full": 0.896273209326852,
+        "distance_threshold": 0.6,
+        "clustering_method": "ward",
+        "max_cluster_size": 17,
+        "min_cluster_size": 1,
+        "n_active_clusters_before_sparsify": 8,
+        "n_active_clusters_after_sparsify": 7,
+        "min_cluster_weight_threshold": 0.07
+      },
+      "n_clusters": 10,
+      "clusters": [
+        {
+          "cluster_id": 1,
+          "weight": 0.31565517157964645,
+          "raw_score": 0.01857894500165247,
+          "member_local_indices": [
+            6,
+            11
+          ],
+          "member_source_ids": [
+            "src_562",
+            "src_518"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "weight": 0.09786300837178234,
+          "raw_score": 0.00576005595326301,
+          "member_local_indices": [
+            5
+          ],
+          "member_source_ids": [
+            "src_473"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "weight": 0.1256545081399874,
+          "raw_score": 0.007395817987900344,
+          "member_local_indices": [
+            3
+          ],
+          "member_source_ids": [
+            "src_4395"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "weight": 0.09224607191715561,
+          "raw_score": 0.0054294522981857,
+          "member_local_indices": [
+            8
+          ],
+          "member_source_ids": [
+            "src_3199"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "weight": 0.11771970343646736,
+          "raw_score": 0.0069287884143064415,
+          "member_local_indices": [
+            1
+          ],
+          "member_source_ids": [
+            "src_2749"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "weight": 0.11848401069979225,
+          "raw_score": 0.006973774284611101,
+          "member_local_indices": [
+            4
+          ],
+          "member_source_ids": [
+            "src_3683"
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "weight": 0.1323775258551685,
+          "raw_score": 0.0077915237694670125,
+          "member_local_indices": [
+            9
+          ],
+          "member_source_ids": [
+            "src_4751"
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "weight": 0.0,
+          "raw_score": -0.03513790392270688,
+          "member_local_indices": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ],
+          "member_source_ids": [
+            "src_3118",
+            "src_2981",
+            "src_3099",
+            "src_3047",
+            "src_3080",
+            "src_2975",
+            "src_3049",
+            "src_3108",
+            "src_3036",
+            "src_3033",
+            "src_3104",
+            "src_3089",
+            "src_3021",
+            "src_3091",
+            "src_3113",
+            "src_3096",
+            "src_2978"
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "weight": 0.0,
+          "raw_score": -0.010380996207705384,
+          "member_local_indices": [
+            10,
+            37,
+            38,
+            39
+          ],
+          "member_source_ids": [
+            "src_452",
+            "src_436",
+            "src_356",
+            "src_371"
+          ]
+        },
+        {
+          "cluster_id": 10,
+          "weight": 0.0,
+          "raw_score": 0.001233481793623481,
+          "member_local_indices": [
+            0,
+            2,
+            7,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            36
+          ],
+          "member_source_ids": [
+            "src_3112",
+            "src_3085",
+            "src_3122",
+            "src_3016",
+            "src_3084",
+            "src_3087",
+            "src_2972",
+            "src_2984",
+            "src_2997",
+            "src_3077",
+            "src_3028"
+          ]
+        }
+      ]
+    },
+    "stage3_shapley": {
+      "per_cluster": [
+        {
+          "cluster_id": 1,
+          "method": "shapley_exact",
+          "n": 2,
+          "metadata": {
+            "n_evaluations": 8,
+            "n": 2,
+            "v_full": 0.032938259940717224,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_562",
+              "shapley_value": 0.009532460056698389,
+              "weight_in_cluster": 0.2894038748208027,
+              "interval_lower": 0.2894038748208027,
+              "interval_upper": 0.2894038748208027
+            },
+            {
+              "source_id": "src_518",
+              "shapley_value": 0.023405799884018835,
+              "weight_in_cluster": 0.7105961251791972,
+              "interval_lower": 0.7105961251791972,
+              "interval_upper": 0.7105961251791972
+            }
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_473",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_4395",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_3199",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_2749",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_3683",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "method": "shapley_exact",
+          "n": 1,
+          "metadata": {
+            "n_evaluations": 0,
+            "n": 1,
+            "trivial": true
+          },
+          "members": [
+            {
+              "source_id": "src_4751",
+              "shapley_value": 1.0,
+              "weight_in_cluster": 1.0,
+              "interval_lower": 1.0,
+              "interval_upper": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "method": "shapley_monte_carlo",
+          "n": 17,
+          "metadata": {
+            "n_permutations": 392,
+            "n_permutations_requested": 400,
+            "n_evaluations": 6664,
+            "n": 17,
+            "hoeffding_epsilon": 0.1371889701885601,
+            "confidence": 0.95,
+            "temperature": 8.0,
+            "antithetic": true,
+            "n_strata": 14,
+            "pairs_per_stratum": 14
+          },
+          "members": [
+            {
+              "source_id": "src_3118",
+              "shapley_value": 0.024487422552893653,
+              "weight_in_cluster": 0.030651873945250152,
+              "interval_lower": 0.0,
+              "interval_upper": 0.20237672623688152
+            },
+            {
+              "source_id": "src_2981",
+              "shapley_value": 0.05301670669416401,
+              "weight_in_cluster": 0.06636310567482666,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23808795796645804
+            },
+            {
+              "source_id": "src_3099",
+              "shapley_value": 0.03874352573994984,
+              "weight_in_cluster": 0.048496801352217615,
+              "interval_lower": 0.0,
+              "interval_upper": 0.220221653643849
+            },
+            {
+              "source_id": "src_3047",
+              "shapley_value": 0.05504397448290404,
+              "weight_in_cluster": 0.06890071683335107,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24062556912498245
+            },
+            {
+              "source_id": "src_3080",
+              "shapley_value": 0.06319491966250713,
+              "weight_in_cluster": 0.07910357683791758,
+              "interval_lower": 0.0,
+              "interval_upper": 0.25082842912954895
+            },
+            {
+              "source_id": "src_2975",
+              "shapley_value": 0.03669961182510622,
+              "weight_in_cluster": 0.04593835358020716,
+              "interval_lower": 0.0,
+              "interval_upper": 0.21766320587183852
+            },
+            {
+              "source_id": "src_3049",
+              "shapley_value": 0.03261523688360775,
+              "weight_in_cluster": 0.040825780152704653,
+              "interval_lower": 0.0,
+              "interval_upper": 0.21255063244433603
+            },
+            {
+              "source_id": "src_3108",
+              "shapley_value": 0.03668278110906442,
+              "weight_in_cluster": 0.04591728590820505,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2176421381998364
+            },
+            {
+              "source_id": "src_3036",
+              "shapley_value": 0.057060564013915134,
+              "weight_in_cluster": 0.07142496159493619,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24314981388656756
+            },
+            {
+              "source_id": "src_3033",
+              "shapley_value": 0.055022808297436866,
+              "weight_in_cluster": 0.06887422228303897,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24059907457467034
+            },
+            {
+              "source_id": "src_3104",
+              "shapley_value": 0.04483140254218932,
+              "weight_in_cluster": 0.056117237187527945,
+              "interval_lower": 0.0,
+              "interval_upper": 0.22784208947915932
+            },
+            {
+              "source_id": "src_3089",
+              "shapley_value": 0.03667654839083943,
+              "weight_in_cluster": 0.04590948416864033,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2176343364602717
+            },
+            {
+              "source_id": "src_3021",
+              "shapley_value": 0.04890438931940636,
+              "weight_in_cluster": 0.061215555600021496,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23294040789165288
+            },
+            {
+              "source_id": "src_3091",
+              "shapley_value": 0.05092740819411881,
+              "weight_in_cluster": 0.06374784822504585,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23547270051667724
+            },
+            {
+              "source_id": "src_3113",
+              "shapley_value": 0.04277320992973056,
+              "weight_in_cluster": 0.05354091620577252,
+              "interval_lower": 0.0,
+              "interval_upper": 0.22526576849740387
+            },
+            {
+              "source_id": "src_3096",
+              "shapley_value": 0.05295620793304655,
+              "weight_in_cluster": 0.06628737698612491,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23801222927775628
+            },
+            {
+              "source_id": "src_2978",
+              "shapley_value": 0.06925155257640897,
+              "weight_in_cluster": 0.08668490346421188,
+              "interval_lower": 0.0,
+              "interval_upper": 0.25840975575584324
+            }
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "method": "shapley_exact",
+          "n": 4,
+          "metadata": {
+            "n_evaluations": 64,
+            "n": 4,
+            "v_full": 0.6681750424216184,
+            "temperature": 8.0
+          },
+          "members": [
+            {
+              "source_id": "src_452",
+              "shapley_value": 0.16373448228560014,
+              "weight_in_cluster": 0.24504728834556452,
+              "interval_lower": 0.24504728834556452,
+              "interval_upper": 0.24504728834556452
+            },
+            {
+              "source_id": "src_436",
+              "shapley_value": 0.1721955561823655,
+              "weight_in_cluster": 0.25771024843772916,
+              "interval_lower": 0.25771024843772916,
+              "interval_upper": 0.25771024843772916
+            },
+            {
+              "source_id": "src_356",
+              "shapley_value": 0.1662504995256194,
+              "weight_in_cluster": 0.24881279450829197,
+              "interval_lower": 0.24881279450829197,
+              "interval_upper": 0.24881279450829197
+            },
+            {
+              "source_id": "src_371",
+              "shapley_value": 0.16599450442803335,
+              "weight_in_cluster": 0.24842966870841432,
+              "interval_lower": 0.24842966870841432,
+              "interval_upper": 0.24842966870841432
+            }
+          ]
+        },
+        {
+          "cluster_id": 10,
+          "method": "shapley_monte_carlo",
+          "n": 11,
+          "metadata": {
+            "n_permutations": 392,
+            "n_permutations_requested": 400,
+            "n_evaluations": 4312,
+            "n": 11,
+            "hoeffding_epsilon": 0.1371889701885601,
+            "confidence": 0.95,
+            "temperature": 8.0,
+            "antithetic": true,
+            "n_strata": 14,
+            "pairs_per_stratum": 14
+          },
+          "members": [
+            {
+              "source_id": "src_3112",
+              "shapley_value": 0.06302035053272208,
+              "weight_in_cluster": 0.07550879648794226,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23988385855586378
+            },
+            {
+              "source_id": "src_3085",
+              "shapley_value": 0.0861390525177784,
+              "weight_in_cluster": 0.10320882272547646,
+              "interval_lower": 0.0,
+              "interval_upper": 0.267583884793398
+            },
+            {
+              "source_id": "src_3122",
+              "shapley_value": 0.06476926067110543,
+              "weight_in_cluster": 0.07760427990875121,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24197934197667273
+            },
+            {
+              "source_id": "src_3016",
+              "shapley_value": 0.07841099666061888,
+              "weight_in_cluster": 0.09394933444854728,
+              "interval_lower": 0.0,
+              "interval_upper": 0.25832439651646877
+            },
+            {
+              "source_id": "src_3084",
+              "shapley_value": 0.09933037384369717,
+              "weight_in_cluster": 0.11901420604984671,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2833892681177682
+            },
+            {
+              "source_id": "src_3087",
+              "shapley_value": 0.06834010411497092,
+              "weight_in_cluster": 0.08188274057445541,
+              "interval_lower": 0.0,
+              "interval_upper": 0.24625780264237693
+            },
+            {
+              "source_id": "src_2972",
+              "shapley_value": 0.07930026611233176,
+              "weight_in_cluster": 0.0950148262378617,
+              "interval_lower": 0.0,
+              "interval_upper": 0.25938988830578324
+            },
+            {
+              "source_id": "src_2984",
+              "shapley_value": 0.07705027341449644,
+              "weight_in_cluster": 0.09231896308756092,
+              "interval_lower": 0.0,
+              "interval_upper": 0.25669402515548245
+            },
+            {
+              "source_id": "src_2997",
+              "shapley_value": 0.08052661366420627,
+              "weight_in_cluster": 0.09648419330635964,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2608592553742812
+            },
+            {
+              "source_id": "src_3077",
+              "shapley_value": 0.07749633248541948,
+              "weight_in_cluster": 0.09285341558303602,
+              "interval_lower": 0.0,
+              "interval_upper": 0.2572284776509575
+            },
+            {
+              "source_id": "src_3028",
+              "shapley_value": 0.060225765403733277,
+              "weight_in_cluster": 0.07216042159016255,
+              "interval_lower": 0.0,
+              "interval_upper": 0.23653548365808408
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "verification": {
+    "overall_status": "VIOLATED",
+    "axioms": [
+      {
+        "name": "efficiency",
+        "status": "PROVEN",
+        "detail": "sum(weights) = 1.000000 \u2248 1.000000 (tol=0.001)"
+      },
+      {
+        "name": "symmetry",
+        "status": "VIOLATED",
+        "detail": "1 equivalent pair(s) have unequal weights: [(73, 75, 0.0029597017536035965)]"
+      },
+      {
+        "name": "dummy",
+        "status": "VIOLATED",
+        "detail": "5 dummy source(s) have nonzero weight: [(0, 0.0032168182290115777), (4, 0.002510071337232602), (6, 0.002796771208308117)]"
+      }
+    ],
+    "smt_lib_file": "/Users/gauravgupta/Desktop/cascade_v/outputs/proofs/output_027.smt2",
+    "smt_lib_hash": "8f15bde60bebcb8c52f7ec2463250b8dc1074828097bf33f5e7f29472c2920a4"
+  },
+  "pipeline_metadata": {
+    "catalog_size": 5000,
+    "candidates_from_triage": 89,
+    "n_clusters": 10,
+    "validations_passed": true,
+    "validation_details": [
+      {
+        "stage": "stage1_triage",
+        "invariants": {
+          "scores_monotone_decreasing": true,
+          "shapes_aligned": true,
+          "indices_unique": true,
+          "top_score_nontrivial": true
+        },
+        "passed": true,
+        "context": {
+          "k": 40,
+          "catalog_size": 5000
+        }
+      },
+      {
+        "stage": "stage2_grouping",
+        "invariants": {
+          "weights_sum_to_one": true,
+          "partition_complete": true,
+          "cluster_ids_consistent": true,
+          "weights_nonneg": true,
+          "members_unique": true
+        },
+        "passed": true,
+        "context": {
+          "n_candidates": 40
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_1",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 1,
+          "members": [
+            6,
+            11
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_2",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 2,
+          "members": [
+            5
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_3",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 3,
+          "members": [
+            3
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_4",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 4,
+          "members": [
+            8
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_5",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 5,
+          "members": [
+            1
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_6",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 6,
+          "members": [
+            4
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_7",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 7,
+          "members": [
+            9
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_8",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 8,
+          "members": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_9",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 9,
+          "members": [
+            10,
+            37,
+            38,
+            39
+          ]
+        }
+      },
+      {
+        "stage": "stage3_shapley_cluster_10",
+        "invariants": {
+          "shapes_aligned": true,
+          "weights_sum_to_one": true,
+          "weights_nonneg": true,
+          "intervals_contain_weights": true,
+          "intervals_valid": true
+        },
+        "passed": true,
+        "context": {
+          "cluster_id": 10,
+          "members": [
+            0,
+            2,
+            7,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            36
+          ]
+        }
+      }
+    ]
+  },
+  "currencies": {
+    "receipt_id": "output_027",
+    "dials": {
+      "alpha": 0.85,
+      "beta": 0.6,
+      "gamma": 0.3
+    },
+    "qws": {
+      "quantile_active": 0.75,
+      "output_quality_score": 0.6410128285724216,
+      "weights_by_quantile": {
+        "0.5": [
+          0.003216818229011577,
+          0.0025100713372326017,
+          0.0027967712083081164,
+          0.011426805858715763,
+          0.013468019123795178,
+          0.13521328835418817,
+          0.09301454506887948,
+          0.008220361602460606,
+          0.07288691836023921,
+          0.011180063356064203,
+          0.09361845155450338,
+          0.09928411786054593,
+          0.07732506060623864,
+          0.10459621444261961,
+          0.02183206023768221,
+          0.17723008712660213,
+          0.07218034567291315
+        ],
+        "0.75": [
+          0.0005784276062382298,
+          0.0003986927919921377,
+          0.0004689155888591203,
+          0.003872543974019352,
+          0.0049552396464723454,
+          0.15762971666669578,
+          0.0899363657785435,
+          0.0023629008038662256,
+          0.062385465487058166,
+          0.0037477920280341607,
+          0.09081366755800681,
+          0.09918105110682261,
+          0.06816939502873386,
+          0.1072464645354785,
+          0.0102270678937685,
+          0.23654578184044828,
+          0.061480511664962455
+        ],
+        "0.9": [
+          0.00020057474870360846,
+          0.00012833452371744273,
+          0.00015591613025775012,
+          0.001964142856870299,
+          0.0026403107114957567,
+          0.16778114589970716,
+          0.08556572675332626,
+          0.0010857054810744944,
+          0.05516676863877447,
+          0.0018884610071214683,
+          0.08656830229094113,
+          0.09622587970812298,
+          0.06135991793466116,
+          0.10569076061213568,
+          0.006299104441388656,
+          0.27307106985860563,
+          0.05420787840309614
+        ],
+        "0.99": [
+          0.00010546352809562644,
+          6.453216964707103e-05,
+          7.994265458843379e-05,
+          0.0012974445091851385,
+          0.0017964658038811417,
+          0.17290831761555941,
+          0.08243815074028521,
+          0.0006758987553751462,
+          0.05086788890639788,
+          0.001242559624191603,
+          0.08350129366969812,
+          0.09380359707410092,
+          0.05718362205831996,
+          0.10400138886735469,
+          0.004675252847947125,
+          0.29546202797489884,
+          0.049896153200473685
+        ]
+      },
+      "weights_final": [
+        0.0005784276062382298,
+        0.0003986927919921377,
+        0.0004689155888591203,
+        0.003872543974019352,
+        0.0049552396464723454,
+        0.15762971666669578,
+        0.0899363657785435,
+        0.0023629008038662256,
+        0.062385465487058166,
+        0.0037477920280341607,
+        0.09081366755800681,
+        0.09918105110682261,
+        0.06816939502873386,
+        0.1072464645354785,
+        0.0102270678937685,
+        0.23654578184044828,
+        0.061480511664962455
+      ]
+    },
+    "per_contributor": [
+      {
+        "contributor_id": "src_060",
+        "monetary": {
+          "weight_qws": 0.0005784276062382298,
+          "weight_with_floor": 0.007058823529411767,
+          "payout_usd": 0.007058823529411767,
+          "interval_usd": [
+            0.03925634240247384,
+            0.039256342402473846
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02776470588235294
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0010824307030084298,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_1199",
+        "monetary": {
+          "weight_qws": 0.0003986927919921377,
+          "weight_with_floor": 0.007058823529411767,
+          "payout_usd": 0.007058823529411767,
+          "interval_usd": [
+            0.044440609228943224,
+            0.044440609228943224
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02776470588235294
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0010824307030084298,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_1250",
+        "monetary": {
+          "weight_qws": 0.0004689155888591203,
+          "weight_with_floor": 0.007058823529411767,
+          "payout_usd": 0.007058823529411767,
+          "interval_usd": [
+            0.042101211472874926,
+            0.04210121147287493
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02776470588235294
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0010824307030084298,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2155",
+        "monetary": {
+          "weight_qws": 0.003872543974019352,
+          "weight_with_floor": 0.007058823529411767,
+          "payout_usd": 0.007058823529411767,
+          "interval_usd": [
+            0.02082863528002157,
+            0.02082863528002157
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02776470588235294
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0010824307030084298,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2156",
+        "monetary": {
+          "weight_qws": 0.0049552396464723454,
+          "weight_with_floor": 0.007058823529411767,
+          "payout_usd": 0.007058823529411767,
+          "interval_usd": [
+            0.01918542331935594,
+            0.01918542331935594
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02776470588235294
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0010824307030084298,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2705",
+        "monetary": {
+          "weight_qws": 0.15762971666669578,
+          "weight_with_floor": 0.1521830633939944,
+          "payout_usd": 0.1521830633939944,
+          "interval_usd": [
+            0.130541200405094,
+            0.130541200405094
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.11483924980110252
+        },
+        "opportunity": {
+          "priority_adjustment": 0.02333641287520118,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_2749",
+        "monetary": {
+          "weight_qws": 0.0899363657785435,
+          "weight_with_floor": 0.0869384076252827,
+          "payout_usd": 0.0869384076252827,
+          "interval_usd": [
+            0.08991397822434356,
+            0.08991397822434356
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.07569245633987551
+        },
+        "opportunity": {
+          "priority_adjustment": 0.013331513571937986,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_3188",
+        "monetary": {
+          "weight_qws": 0.0023629008038662256,
+          "weight_with_floor": 0.007058823529411767,
+          "payout_usd": 0.007058823529411767,
+          "interval_usd": [
+            0.024557138319230908,
+            0.02455713831923091
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02776470588235294
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0010824307030084298,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_3199",
+        "monetary": {
+          "weight_qws": 0.062385465487058166,
+          "weight_with_floor": 0.06038411562980893,
+          "payout_usd": 0.06038411562980893,
+          "interval_usd": [
+            0.07054867783278156,
+            0.07054867783278156
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.05975988114259124
+        },
+        "opportunity": {
+          "priority_adjustment": 0.025428634134502918,
+          "diversity_amplified": true,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_3237",
+        "monetary": {
+          "weight_qws": 0.0037477920280341607,
+          "weight_with_floor": 0.007058823529411767,
+          "payout_usd": 0.007058823529411767,
+          "interval_usd": [
+            0.021057223470972095,
+            0.021057223470972098
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.02776470588235294
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0010824307030084298,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_3683",
+        "monetary": {
+          "weight_qws": 0.09081366755800681,
+          "weight_with_floor": 0.08778397446242947,
+          "payout_usd": 0.08778397446242947,
+          "interval_usd": [
+            0.09049518625743072,
+            0.09049518625743072
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.07619979644216357
+        },
+        "opportunity": {
+          "priority_adjustment": 0.013461176468617553,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_4395",
+        "monetary": {
+          "weight_qws": 0.09918105110682261,
+          "weight_with_floor": 0.09584868173669762,
+          "payout_usd": 0.09584868173669762,
+          "interval_usd": [
+            0.0959482855649397,
+            0.0959482855649397
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.08103862080672446
+        },
+        "opportunity": {
+          "priority_adjustment": 0.032619762854103826,
+          "diversity_amplified": true,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_473",
+        "monetary": {
+          "weight_qws": 0.06816939502873386,
+          "weight_with_floor": 0.06595882107703419,
+          "payout_usd": 0.06595882107703419,
+          "interval_usd": [
+            0.07481758984472582,
+            0.07481758984472582
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.06310470441092639
+        },
+        "opportunity": {
+          "priority_adjustment": 0.01011441251796969,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_4751",
+        "monetary": {
+          "weight_qws": 0.1072464645354785,
+          "weight_with_floor": 0.10362234216096092,
+          "payout_usd": 0.10362234216096092,
+          "interval_usd": [
+            0.10106165055005421,
+            0.10106165055005421
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.08570281706128244
+        },
+        "opportunity": {
+          "priority_adjustment": 0.015889900661961436,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_4970",
+        "monetary": {
+          "weight_qws": 0.0102270678937685,
+          "weight_with_floor": 0.0101124618887413,
+          "payout_usd": 0.0101124618887413,
+          "interval_usd": [
+            0.021587407004425994,
+            0.021587407004425994
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "ESSENTIAL CONTRIBUTOR"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": true,
+          "feature_probability": 0.029596888897950663
+        },
+        "opportunity": {
+          "priority_adjustment": 0.0015506888911116278,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_518",
+        "monetary": {
+          "weight_qws": 0.23654578184044828,
+          "weight_with_floor": 0.2282444703021853,
+          "payout_usd": 0.2282444703021853,
+          "interval_usd": [
+            0.171010394025692,
+            0.17101039402569201
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.16047609394601706
+        },
+        "opportunity": {
+          "priority_adjustment": 0.03499999984665565,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      },
+      {
+        "contributor_id": "src_562",
+        "monetary": {
+          "weight_qws": 0.061480511664962455,
+          "weight_with_floor": 0.05951189701698283,
+          "payout_usd": 0.05951189701698283,
+          "interval_usd": [
+            0.06986912083093158,
+            0.0698691208309316
+          ]
+        },
+        "reputational": {
+          "roles": [
+            "CONTRIBUTING VOICE"
+          ],
+          "streak": "(requires historical data)",
+          "is_featured": false,
+          "feature_probability": 0.05923654997489558
+        },
+        "opportunity": {
+          "priority_adjustment": 0.009125813141106548,
+          "diversity_amplified": false,
+          "under_represented_protected": false
+        }
+      }
+    ],
+    "dignity_proof": {
+      "currency_1_monetary": "PROVEN",
+      "currency_1_floor_honored": "PROVEN",
+      "currency_1_efficiency": "PROVEN",
+      "currency_2_every_creator_recognized": "PROVEN",
+      "currency_3_opportunity_nonneg": "PROVEN",
+      "every_creator_received_all_three": "PROVEN"
+    }
+  }
+}
