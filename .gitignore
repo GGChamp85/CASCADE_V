@@ -33,11 +33,16 @@ data/catalog_metadata.json
 data/catalog_embeddings.npy
 data/ground_truth.json
 models/*.pt
+models/hf_cache/
 outputs/receipts/*.json
 outputs/proofs/*.smt2
 outputs/plots/*.png
 outputs/results.csv
 logs/*.json
+logs/*.jsonl
+logs/*.log
+dashboard/.next/
+dashboard/node_modules/
 
 # Keep the directories themselves
 !data/.gitkeep
