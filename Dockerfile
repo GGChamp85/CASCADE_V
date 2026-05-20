@@ -15,7 +15,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 WORKDIR /app
 
 RUN pip install --index-url https://download.pytorch.org/whl/cpu \
-        "torch>=2.4.0,<2.6" "torchaudio>=2.4.0,<2.6"
+        "torch>=2.6.0" "torchaudio>=2.6.0"
 
 COPY pyproject.toml README.md ./
 COPY src/ ./src/
