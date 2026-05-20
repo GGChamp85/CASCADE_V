@@ -7,7 +7,8 @@ FROM node:20-alpine AS build
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
-ENV NEXT_TELEMETRY_DISABLED=1
+ENV NEXT_TELEMETRY_DISABLED=1 \
+    API_TARGET=http://backend:8766
 RUN npm run build
 
 FROM node:20-alpine AS runner
