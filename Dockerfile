@@ -22,7 +22,7 @@ COPY src/ ./src/
 COPY server/ ./server/
 COPY scripts/ ./scripts/
 
-RUN pip install ".[server]"
+RUN pip install -e ".[server]"
 
 COPY data/ ./data/
 COPY models/ ./models/
