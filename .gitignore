@@ -43,6 +43,7 @@ dashboard/node_modules/
 !outputs/proofs/.gitkeep
 !outputs/plots/.gitkeep
 !logs/.gitkeep
+!logs/training.json
 
 # Claude harness
 .claude/

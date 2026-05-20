@@ -3,7 +3,8 @@ FROM python:3.13-slim AS base
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     PIP_NO_CACHE_DIR=1 \
-    PIP_DISABLE_PIP_VERSION_CHECK=1
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    CASCADE_V_PROJECT_ROOT=/app
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
         build-essential \
@@ -27,6 +28,7 @@ RUN pip install -e ".[server]"
 COPY data/ ./data/
 COPY models/ ./models/
 COPY outputs/ ./outputs/
+COPY logs/training.json ./logs/training.json
 
 EXPOSE 8766
 

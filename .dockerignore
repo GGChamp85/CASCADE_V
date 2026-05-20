@@ -11,7 +11,8 @@ __pycache__/
 dashboard/node_modules/
 dashboard/.next/
 dashboard/.turbo/
-logs/
+logs/*
+!logs/training.json
 *.log
 .DS_Store
 .idea/

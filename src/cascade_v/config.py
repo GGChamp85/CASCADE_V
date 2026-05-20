@@ -9,6 +9,7 @@ module's consumers.
 
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 import torch
@@ -22,7 +23,15 @@ _s = get_settings()
 # Paths
 # ---------------------------------------------------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+# Allow deployments (Docker, CI) to pin PROJECT_ROOT explicitly. Without this,
+# a non-editable install would resolve __file__ into site-packages and break
+# every data path. CASCADE_V_PROJECT_ROOT takes precedence when set.
+_env_root = os.environ.get("CASCADE_V_PROJECT_ROOT")
+PROJECT_ROOT = (
+    Path(_env_root).resolve()
+    if _env_root
+    else Path(__file__).resolve().parent.parent.parent
+)
 DATA_DIR = PROJECT_ROOT / "data"
 CATALOG_DIR = DATA_DIR / "catalog"
 TEST_OUTPUTS_DIR = DATA_DIR / "test_outputs"
